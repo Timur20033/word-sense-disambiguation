@@ -1,0 +1,22 @@
+Diagrams are published in the book "Origami @Tessellations for Everyone" by Ilan Garibi 
+
+Actual folding time: 1 hour (including explanations)
+Music: "About That Oldie" by Vibe Tracks
+More information about text formats
+
+Adulthood (Ilan Garibi and Hagay Golan): Instructions
+Paper used in this video: square with a side length of 23 cm (9 in), kami
+Model: square with a side length of 13 cm (5 in), height of 7 mm (0.3 in)
+
+This video shows how to fold the origami tessellation "Adulthood" designed by Ilan Garibi and Hagay Golan.
+Since it is quite difficult to make a perpendicular crease against 64 mountain fold lines, do not crease 64 horizontal creases and then rotate the paper to complete the perpendicular ones.
+Clover Folding (22×22 grid)
+I hadn’t folded Shuzo Fujimoto’s Clover Folding for at least two years when I decided to fold one again after seeing some examples beautifully folded by John McKeever.
+Clover Folding
+Along with the Hydrangea, this is one of the oldest picture of a tessellation folded by me (taken in June 2015).
+The mask is symmetrical so I can use the information on the completed side to fold the rest of the mask.
+We ended up folding a slightly different variant and only in the next morning did I remember how to fold the original.
+The area below the intersection has spacings of 2, so I fold those in half again.
+In this case, I fold the bottom line up to the intersection.
+In the second image, you can take a peek at my design technique and see the stages a design like this goes through: first, the doodles of individual molecules, each folded from a test sheet with 16×16 grid, then planning for the layout of molecules and grid size (the final model ended up being from 64×16 grid), drawing the precrease pattern (PreCP), and the final work.
+I had folded models for the new cover design of the copy paper packages.

@@ -1,0 +1,11 @@
+Model folded from a sheet of decorated Washi I received courtesy of Satoko Saito.
+In other words, a non-traditional approach to origami is required when trying to fold origami fractals.
+When I see something to the effect of “can you believe it’s just folded paper” I think why shouldn’t it be folded paper?
+I was wondering if the book includes step-by-step instructions on how to fold all sorts of different tessellations, or are they just crease patterns?
+While designers such as Yoshihide Momotani and Shuzo Fujimoto explored @tessellations early on, only recently did these folds become more main-stream.
+The repeating 6-fold parts of the pattern are not aligned with a natural tiling break, so you must choose between aligning the closest repeats with the edge ( which means folding all the way to the edge) and aligning the tiling breaks with the edge (so you can leave a border).
+This shape can’t be achieved starting directly from Red Flower, so now I think that Fujimoto did not publish John Lackland as a separate design, but must have arrived at it as an intermediate stage while folding that design.
+Reverse Engineering Challenge Results
+Thanks to everyone who folded the Herringbone Weave origami tessellation in the last two weeks!
+So I picked up a piece of 8.5x11" sheet of printer paper, folded the diagonal, trimmed off the excess, and googled "fold a paper into 7ths" and went on.
+Interestingly, I came up with it later than with Square Interlace Tessellation even though Propellers is one of the intermediate steps when folding Square Interlace.

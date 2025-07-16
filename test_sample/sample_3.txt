@@ -1,0 +1,12 @@
+Precreasing showed good results, the short fold lines did not expand into the adjacent squares.
+It's strong, yet thin; it is stiff, yet folds easily; it has a beautiful palette of colors, and it comes in all the right sizes.
+The first big publication (in English) that demystified tessellations and explained how to fold several stunning projects was Origami @Tessellations by Eric Gjerde (also available at The Source).
+Whirlwind Tessellation
+It took me a while between folding a box decorated with a single molecule and folding a complete tessellation.
+They're also the level of analysis that's most beneficial for folding and designing.
+I have never folded the entire shape from one sheet of paper without cutting, even for n=2.
+I folded the closed version in the 7-stage fold, and the open version in the 11-stage fold.
+)How are the twists connected - are all the pleats perpendicular to each other?This tessellation is an unusual example of the square tiling that has no rotational symmetry in its folded form, only translational symmetry.That said, these hybrid square twists have two possible folded states from the initial pleat positions and you could fold a version of this tessellation with 2-fold rotational symmetry with a checkerboard pattern of the hybrid square squash directions on each side.How would you choose to fold this - with or without rotational symmetry?
+Now, i have questions about the precreasing for the clover:
+- first, is it a standard precreasing technique, or do you use it for this precise project because the mountain and valley folds one obtains suit the necessary ones for the clover model?
+It’s folded from a very large hexagon shaped piece of paper.

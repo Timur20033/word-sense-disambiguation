@@ -1,0 +1,12 @@
+{"verbs": {"1": ["складывать сгиб", ["paper", "sheet", "grain", "layer",
+                                     "center", "half", "side", "edge", "corner", "diagonal",
+                                     "line", "crease"]],
+           "2": ["двигать сгиб", ["reverse", "mountain", "valley", "back", "forth", "direction",
+                                  "bidirectional", "neutral", "genderless"]],
+           "3": ["делить на полосы", ["into"]],
+           "4": ["складывать сетку", ["grid"]],
+           "5": ["складывать модель", ["from"]]},
+ "nouns": {"1": ["сгиб", []],
+           "2": ["полоса", []],
+           "3": ["конструкция", ["pleat", "twist"]],
+           "4": ["законченная модель", ["first"]]}}

@@ -1,0 +1,925 @@
+Academic Origami Publications
+My introduction to the possibility of a career in origami came during the Geometric Folding Algorithms class I took in my last semester at MIT.
+I saw that there was a whole world of academic origami research and engineering, with a growing number of grants and other funding to support that research.
+Then I got my first taste of an academic origami conference at 7OSME, where I presented a poster of my final project for the folding algorithms class.
+That project was expanding previous work on mazes done by Jason Ku and Erik Demaine to include mazes on triangle and hexagon grids.
+By that point I was pretty hooked on doing origami research and I’d talked my way into a summer studying polycube unfolding in Prolog (see the code here) at Lawrence Livermore National Lab.
+I’d started designing my own origami tessellations and was translating many origami tessellation patterns to fabric smocking patterns since I’d learned smocking from Adrienne Sack at 7OSME.
+Adrienne and I did some joint presentations at PCOC (Pacific Coast Origami Convention, OUSA) and MOVES (Mathematics Of Various Entertaining Subjects, MoMath) in 2019 and we also had some collaborative pieces on display in the National Museum of Mathematics Math Unfolded exhibition associated with the MOVES conference.
+In January 2020 I moved to Pittsburgh and started Gathering Folds - right before the Covid pandemic.
+I’ve learned a ton about twist-based origami tessellation folding, design, and presentation since then, much of which you can learn about in the other articles on this blog.
+Here’s a list of academic articles I’ve had published since starting Gathering Folds:
+The topics in papers 1 and 2 are covered in a more accessible format in this blog post and in my Tessellations by Tiles and Advanced Twist Techniques courses, the topic of paper 3 was developed over several years of Advanced Twist Techniques presentations, and paper 4 is an expansion on this blog post and covers techniques taught in my Project Planning Masterclass.
+I’m looking forward to publishing more articles in the future and developing my thinking on origami tessellation design even further!
+Articles will be added to this list as they’re published.
+
+Basic Twists for Origami Tessellations
+Using only these eight twists, hundreds if not thousands of origami tessellation designs are available to be folded.
+Many of these are quite simple, using only left- and right-handed forms of the same twist or alternating between two different twists.
+You can continue using these familiar twists in more advanced tessellations too if you increase the structural complexity.
+The structure of an origami tessellation refers to what twist shapes are used and how these shapes are connected by pleats.
+These structures are usually represented by a tiling, where any two shapes in the tiling that share an edge will have a pleat connecting them in the origami tessellation.
+There’s two ways to increase this kind of complexity in an origami tessellation: increase the complexity of the tiling (from a 1-uniform to a 2- or 3-uniform tiling) or change how the symmetry points are arranged on a simple tiling (by creating different colorings of the tiling).
+Neither of these options have theoretical limits on the number of designs that are possible.
+The only real limit is how much time you’re willing to spend gridding and how big your paper is.
+In fact, I’ve found over 40 tessellation designs that use only open hexagon and closed triangle twists - and that search was limited to patterns that fit three repeats inside of 80 grid divisions.
+There are plenty of other twists too, and no theoretical limit on the number of twists either.
+Sometimes I use more advanced twists to resolve symmetry constraints in a design or to create pattern elements that are impossible with the basic twists.
+They’re good tools to be aware of, but not strictly necessary to learn to fold origami tessellations.
+I’d recommend learning twists one at a time and practicing that one twist until you’ve internalized how it works.
+This is my approach to teaching tessellation folding in Basic Twists Bootcamp and Tessellation Starter Sequence, my paid courses on starting to fold tessellations and learning to read crease patterns.
+My free Tessellation Foundations resource introduces my top gridding techniques alongside basic skills like reordering pleat overlaps and it’s a good way to learn your first two twists - the closed square and closed triangle twists.
+This summer I’m excited to announce a new free challenge: Summer of Twists!
+Each of the 30 video tutorials in Summer of Twists will teach you a different twist, including all eight of the basic twists plus 22 more advanced options.
+Whether you fold all 30 or stick to the eight most basic twists, you’re sure to learn something new about folding origami tessellations.
+Each twist tutorial is also paired with a longer video tutorial that teaches how to use the twist in the context of a tessellation pattern, so you could come out of the challenge with 30 finished pieces in addition to your 30 twist demonstrations!
+The crease patterns for these longer tutorials are available in the Summer of Twists ebook on my site or through Origami USA or Origami-Shop, which also includes a bonus crease pattern for each twist so you can test your new folding skills.
+These tutorials will be released on my YouTube channel starting June 3 on a Monday-Wednesday-Friday schedule until August 9, and you can sign up for email reminders to make sure you don’t miss a single one!
+Learning to fold twists doesn’t just make you a better tessellation folder, and it’s not just for folders who are already completing complex models from diagrams.
+My students often remark that they’ve seen all of their origami skills improve after studying tessellations, from predicting what the paper will look like after a fold is made to reading complex diagrams to folding precisely - folding tessellations has improved it all.
+They also tell me that when something stressful is happening in their lives they just want to sit and grid, keeping their minds and hands occupied without trying to figure out something new.
+Whatever your motivation for folding tessellations, I’d advise starting with grids, pleats, and basic twists, folded one at a time.
+
+Tiling-Based Origami Tessellation Design
+I’ve designed over 500 patterns in the last five years, and there are infinitely many patterns waiting to be discovered by a folder like you.
+This article will walk you through the framework I use to design patterns, which is also the most powerful mental tool I’ve found for folding tessellations one twist at a time.
+Normal origami works by making one new fold at a time, but twists have lots of things going on at once.
+Most of the folds are the pleats leaving the central shape, and these lines are already present in the paper through the background grid that’s folded in advance.
+The outline of the central shape is rarely on grid lines, and so these folds are made when the twist is squashed flat.
+First the pleats are set up and then the center is twisted around and flattened to create that central shape.
+Twists can either be rotated right- or left-handedly, and each pleat will go between two twists with opposite rotation directions.
+In my crease patterns, red solid lines show mountain folds and blue dashed lines show valley folds.
+The twist above is a right-handed closed triangle twist, shown as a crease pattern and in the folded form, both front and back.
+These twists can be on either side of the paper and most of my designs have some twists on one side and some twists on the other.
+When you’re looking at a crease pattern like the one above, the twists where the central polygon is outlined in mountain folds are on the side you’re looking at, while the central polygons outlined in valley folds correspond to twists on the opposite side.
+These crease patterns are usually shown on a background grid, so you can count the spaces between twists that are connected by a pleat.
+Can you see that in this example there are hexagons on the front and triangles on the back?
+Crease patterns can be overwhelming and most people think that they have to keep track of all the fold lines at once.
+Thankfully, these patterns can be simplified to what twist shapes are present, which twist shapes are next to each other, and the specific identity of the twist for each shape.
+In the crease pattern example above, each hexagon is connected to six triangles and each triangle is connected to three hexagons.
+There is only one hexagon twist used in the whole pattern and also only one triangle twist used, and they always have the same spacing between them.
+That matches with the pattern below, and you only need to make sure you’ve used the correct spacing once as you’re folding - for the rest of the twists you can check back with what you’ve already folded!
+This representation of what shapes are used and how they’re connected is called a tiling, and there is one twist in the pattern for each tile (each shape) in the tiling.
+Each tiling represents many different patterns, which can be found by making different choices for the contents of the tiles.
+In the tiling of alternating hexagons and triangles above, you can pick any hexagon twist to fill the hexagon tile and any triangle twist on either side of the paper to fill the triangle tile.
+There’s also multiple ways to make choices within a tiling and these ways correspond to different ways of coloring the tiling, as shown below.
+Each color of tile represents a different choice, so you could have different contents for the dark blue and light blue hexagon tiles.
+In fact, in order to preserve the symmetry of the coloring of the tiling you may be required to have distinct twists in different tiles.
+The number of options here gets very large, very quickly, and you end up with infinitely many ways to generate patterns that themselves repeat infinitely.
+All flat infinitely repeating patterns match one of the 17 wallpaper symmetry groups that have been known for hundreds or (in some cases) thousands of years.
+The highest-symmetry cases repeat like a hexagon, like a square, or like a triangle, as shown below.
+The different red shapes in each of these diagrams represent points of rotational symmetry - points where you can rotate the pattern at certain angles and see the same exact pattern again.
+Each type of symmetry has a specific relationship between these points of symmetry and so when you find that relationship in a coloring of a tiling and in the crease pattern made by choices of twists matching that coloring of a tiling, you can be sure that your pattern will repeat infinitely.
+That’s how I found the different colorings of the tiling in the first place - I picked different locations for the positions of symmetry and then followed the symmetry rules to fill in the rest of the colors!
+Of the six colorings in the last section, three of them have hexagonal symmetry and three have triangular symmetry - can you see which ones are which?
+First, I choose what tiling I want to work with.
+I’ve worked with over 60 different tilings and each one has its own folding characteristics.
+With some tilings you fold in rings around the center, while others fold best in stripes or in rings around the center that leave certain twists partially folded temporarily.
+Then I check and see how many different choices are available to be made - how many different tiling positions there are and what their symmetric constraints are.
+In the case of the tiling on the left (Hex-Tri-Rhomb-Tri), there is a choice of hexagon, a choice of triangle, and a choice of rhombus, and there will be no conflicts due to symmetry because there’s one symmetry point that’s between twists instead of inside twists, assuming we place the symmetry points as densely as possible.
+In the case of the middle tiling (Split [Hexagons and Triangles 2-fold]), there are two distinct trapezoids (the colors show a distinction between left- and right-handed twists) and two distinct triangles, but I know from experience that these two choices per shape work well with copies of the same twist but on the opposite side of the paper.
+We can further choose whether to use any of the possible mirror symmetry lines present in the tiling (the horizontal lines that go straight through), and use crease pattern template files to test which options work.
+For the tiling on the right (Hexagon Double Rhombus Triangle), I see one hexagon tile, two distinct rhombus tiles, and one triangle tile.
+All three positions of rotational symmetry are inside of a tile, so it’ll be easiest to choose the contents of the triangle and both rhombus tiles first before seeing what that gives us for the hexagon.
+Just like with the middle tiling, I’d be playing with the twists in a template file to see what does and what does not connect.
+Once you have your choices drawn with the spacing that you want, then it’s time to fold!
+Here’s some examples of what you can fold from each of these tilings:
+There’s tons of patterns out there just waiting to be discovered - maybe some of them will be discovered and folded for the first time by you!
+The thrill of discovery is still keeping me searching for more and more patterns - even after discovering over 500 new designs.
+Each month in Tessellation Academy I focus on a specific topic in origami tessellation design such as alternating square twists, arrangements (colorings of the tiling) of equilateral triangle twists, or how to use only open hexagon and closed triangle twists in many different arrangements.
+I release a beginner and an advanced folding tutorial video during the first two weeks of the month, then we have a live Zoom call to discuss the theory behind the topic and design a new pattern using that theory.
+You can join at any time, with monthly or annual plans available, at training.gatheringfolds.com/academy and I hope to see you at our next live session!
+
+Advent of Tess 2023
+Advent of Tess has become a beloved holiday tradition, with a new mini tessellation pattern tutorial released every day from December 1st through Christmas Day.
+This year’s patterns were completely new, with no overlap with Advent of Tess 2022, and introduced trapezoid twists too!
+These patterns are designed to start out very accessible to any folder, and progressively introduce new twists and ideas until you arrive at advanced skills like open rhombus twists, overlapping twists, trapezoid twists, and flagstone techniques.
+The challenge is free to join, with paper packs (full pack and just paper) and an ebook of crease patterns of the 25 challenge pieces plus 31 alternate endings available if you’d like to use my favorite paper and/or fold more repeats of each pattern.
+There was a lot more focus this year on the alternate endings possible after a given mini tessellation start, with short videos on these alternate endings accompanying every day’s tutorial.
+When you sign up for Advent of Tess today, you’ll have access to all the tutorials immediately and also get daily reminders for each of the 25 days of the challenge.
+As I like to remind people, tessellations are infinite and last forever, and so does Advent of Tess - you can sign up at any time and take however long you like to finish and there’s no such thing as “too late”.
+You’ll be joining hundreds of origami folders around the world in trying out or revisiting tessellation techniques and expanding the possibilities that you can see in a single sheet of paper.
+All the grids used in Advent of Tess are exactly the same - 16 divisions on a hexagon, parallel to the edges of the paper - and I walk you through how to cut out a hexagon and fold that grid in the welcome video of the challenge.
+My aim with Advent of Tess is to make tessellation folding fun instead of frustrating, exciting instead of boring, and to spark ideas about different ways to use twists in as many folders as possible.
+So, will you join me in folding some mini tessellations?
+The tutorials are ready and waiting for you!
+
+Tessellation Garden - a Living Library of Origami Tessellation Designs
+Tessellation Garden is a collection of all of my origami tessellation designs, arranged in a portal with sorting by tiling and sorting by twist difficulty and structural complexity.
+It currently has over 380 crease patterns along with photos, grid rotation recommendations, and links to next-easier and next-harder patterns to fold.
+Once I started teaching origami tessellations two years ago, I shifted my design style to focus on tessellations that can be folded directly from the grid - no precreasing required.
+Given this design constraint, the options that I saw for new designs actually increased dramatically and I was able to find three areas that set my patterns apart from other tessellation designers’ work.
+Tessellation Garden features 48 different arrangements of twists, called tilings, and uses these structures as the primary organization for the designs - just like I have them in my own file system.
+The simplest tilings have dozens of patterns each, using atypical symmetries of common twists as well as working unusual twists into these common structures.
+There’s also quite a few tessellations from my earlier design style that are included too, including fully precreased patterns and ones with compound twists.
+Whether you want to explore hundreds of origami tessellation patterns to find your next project, build skills towards folding a target pattern, or get crease patterns for all my YouTube videos, Tessellation Garden is for you.
+Each pattern can be found in its tiling and also on a difficulty category page.
+The difficulty category pages correspond to the skill progression chart below and are organized internally by related skills and roughly by difficulty within those skill groups.
+Each pattern page has a short description of the tessellation, including any relevant details like whether precreasing is required, along with recommendations for the next-easier and next-harder patterns to attempt.
+This means that you can construct your own learning sequence for any tessellation you’re interested in that is much more granular than the six-pattern Paths to Mastery that I show on Instagram - and these sequences are available for all the hundreds of tessellations, not just the several dozen that I’ve published paths for.
+You can also use Tessellation Garden to identify all the close relatives of a pattern that you’re interested in and then fold them all to make sure that you’ve mastered the relevant skills.
+Since Tessellation Garden only includes my original designs, that rules out most of the 1A Category tessellations since they were almost all discovered long before I started folding origami tessellations.
+I’ve still included photos of these designs in the category page so you can reverse engineer them, though, along with links to where to learn more about them if a video or other training exists.
+Other than that category, my designs span the rest of the spectrum with a concentration in 2B and 2C designs although I have very few true 3A designs.
+The ones I’ve taught on my YouTube channel tend to be 1B and 1C designs since they lend themselves to using smaller grids and practicing particular twists.
+So if you’re curious about Tessellation Garden and want to learn more, check out all the details and buy access here today!
+
+OrigamiUSA Teaching Award 2023
+When I started folding origami, I was completely unaware that people were making new designs all the time and I would have been blown away to learn that there are national organizations in many countries devoted to promoting and teaching origami.
+After almost 10 years of folding alone, I attended my first origami convention - OrigaMIT at MIT.
+It immediately became clear that these people were designing their own patterns and the variety of styles was incredible.
+You had massive modular polyhedra next to super-complex box-pleated figures next to tessellations and snapology and miniature folds.
+Was there anything that origami couldn't do?
+It turns out that the answer is no - you can use origami to make any connected 3D shape - and Erik Demaine proved it mathematically.
+Now it's still an open question whether you can fold any shape from a square sheet of paper instead of an infinitely long strip, but it's still amazing to have the general case proven.
+That's another thing that I learned while I was at MIT - there are actually people who do research on origami and then present their findings at conferences!
+So, not only are there social conventions oriented around teaching models and sharing ideas, but there's also nerdy conferences where origami artists, mathematicians, engineers, and educators can share best-practices and new results.
+These days I try to attend at least two conferences or conventions each year.
+This year I went to the third Convention for Creators of Origami in Bogotá in February and I'd already submitted a paper for the Bridges conference in Halifax, Nova Scotia in July when I found out that I'd won the OrigamiUSA 2023 Teaching Award, which came with financing to attend the OrigamiUSA Annual Convention in New York City in June!
+This award honors outstanding origami teachers who are nominated to the award committee each year.
+Since I've only been actively teaching origami tessellations for the last two years, I was quite surprised that I won the award - even though I had asked my email list subscribers to send in nominations.
+So, thanks to everyone who nominated me - the convention was a blast and I hope to see everyone there again next year!
+If you haven't ever attended an origami convention I highly encourage you to go and if you're worried about finances then look for some of the online options that have popped up in recent years.
+OrigamiUSA's online events often come with a social gathering space where folders can chat about whatever they want, so it's not just Zoom lectures.
+There's a wide world of origami out there and I'm honored to be recognized for growing my little corner of it.
+Happy folding, everyone!
+Madonna
+
+Advent of Tess: a taste of Tessellations
+Many origami folders have been admiring tessellations from afar for years, intimidated by the apparent difficulty and the length of preparation needed just to get started. Others have dabbled in tessellations with live classes at in-person or online conventions and books, but come away frustrated because they get lost and can’t continue or the instructions are unclear or they aren’t able to recreate what they folded live, much less extend it to fold more repeats.
+Folders often look for the right paper or the right tools to make tessellations easy, but don’t realize that the way they’re attempting to fold the tessellation -- by precreasing and collapsing -- is much harder than folding twist by twist. Additionally, learning from a book is much harder than learning from a recorded video with a top-down view - especially if those videos are coming from someone with hundreds of hours of tessellation teaching experience.
+It was with these facts in mind that I designed Advent of Tess to introduce tessellation techniques to folders who had been intimidated by tessellations in the past. More than 800 folders signed up to join me in a daily tessellation exercise in which I released a new mini tessellation tutorial every day from Dec. 1 to Dec. 25, Christmas Day.
+These tutorials built skills gradually, moving from beginner level in the beginning to high intermediate (on the tessellation scale) by the end. I first introduced closed triangle twists, then closed hexagons, open hexagons, open triangles, closed rhombi, and open rhombi while showing the various possibilities of twists to put around a given start.
+Since everything was folded on a 16-fold triangle grid on a hexagon, it was easy to prepare grids in advance and several folders prepped all of their grids before starting any of the tutorials. This limited size also made the patterns more approachable; something to fold in 30 minutes instead of 2+ hours.
+That’s not to say that people didn’t struggle - they definitely did - but it was easy to get help in the community I set up for the challenge and my long-time students even offered to set up Zoom meetings and help in real time. When I checked my statistics at the end of the month, I saw that at least 40 people were posting photos of their own folds for the challenge every day and I know that many more were folding without posting.
+So why am I sharing this with you now? Because you can still participate!
+If you’ve been looking to get into tessellations the easy way, I don’t know of any better resource to get started (and many comments I’ve received agree). It’s free, it walks you through step-by-step, there’s no precreasing after the grid is done, and you can get daily reminders with extra guidance by signing up through my site here. The videos are also on YouTube, so you can translate the captions to whatever language you prefer.
+And once you’re done with the challenge, I have videos here and here to help you apply these patterns to larger grids!
+So go ahead and start folding the tessellations of your dreams today - I’d love to see what you make!
+
+Siren's Call Origami Tessellation
+There are some patterns that when I see them, I know I have to fold them.
+Usually I keep a queue of about 10 of these patterns, but sometimes one skips to the front of the line.
+Siren's Call is one of those.
+I knew I'd have to fold it as soon as I finished the prototype - who could resist those solid lines in backlighting - but I didn't have the math needed to rotate the triangl-centered grid to aligned the pattern to the edges and neither of the standard options were close enough!
+So, I made an attempt at the math, folded the tessellation, and achieved alignment - but it wasn't the alignment I was looking for.
+I'm still not sure if I got lucky or if I did the math wrong, but I am sure that I'll figure it out eventually.
+This tessellation's structure is unusually well-concealed.
+Since the twists are so dense, the closed twists on the back don't appear closed anymore and the clusters are difficult to distinguish because they overlap.
+If you look closely at the symmetries, though, you might spot the structure too: two different clusters of four triangles placed on opposite sides of the paper.
+The cluster on this side has a closed center twist with open corner twists, while the cluster on the back has an open center twist and closed corner twists.
+Basically, this tessellation is a mashup of Emergent Hexagons and Stars in Stars - both of which I also found incredibly attractive!
+See if you can shift your perspective from the twists to the lattice fo dark bars and back again.
+This is the feature that I found incredibly alluring when I discovered Siren's Call - can you see it?
+Ok, so this tessellation shouldn't be the sixth one you ever fold, but there's still a sequence of skills to practice on your way to mastery.
+
+Crossroads Origami Tessellation
+The ways that variations can be made are kinda endless.
+You can change the spacing, switch a twist to the other side, change a position from closed to open or vice versa.
+Or, in some cases, you can stick more twists in between the twists in your tessellation!
+That's exactly how Crossroads came into being - it's an expansion of Square Knots Weave with open squares stuck on the back between each of the original twists.
+Check out the symmetries on this one - which positions are actually 4-fold?
+Does that change if you just consider the pleat structure and ignore how the hybrid square twists are squashed?
+If we take the actual folded structure, only the closed square twists have 4-fold rotational symmetry and the open squares on the front are in 2-fold positions.
+However, if we ignore the direction the hybrid twists are squashed then both the closed and open squares on the front are 4-fold rotationally symmetric and the 2-fold position lands on the hybrid square twist.
+And if we were to choose to squash the hybrid twists differently, we could create the opposite effect - the open squares could be the 4-fold ones and the closed squares would be 2-fold!
+We could also remove all rotational symmetry from the pattern by squashing the hybrid squares chaotically - but the pleat structure would remain the same.
+The alignment tension in Crossroads (just like it was 2 weeks ago for Hybrid Rosettes) is whether to align the natural tiling breaks or the repeating elements to the edge of the paper.
+By letting the repeats cross the paper diagonally, I end up with a clean border and don't need to fold all the way to the edge (although I got pretty close here).
+Tessellations are infinite, and you get to choose the piece of infinity you want to fold.
+Just because a crease pattern ends at a particular place doesn't mean that that's where you should stop too.
+The choice is yours.
+Ok, so I know this tessellation looks a bit intimidating, but there's actually just six things to learn to get there.
+That'll get you to Crossroads - and it doesn't require meeting the devil at the crossroads at midnight to sell your soul. ;P
+If you fold Crossroads, I want to see it! Tag me @gatheringfolds on Instagram or Facebook to share your work. :D
+
+Open Triangle Linked Flowers Origami Tessellation
+When you put triangles next to hexagons you give yourself many, many options of what to fold next.
+You can fold another hexagon (of a different type!), a rhombus in any size or side of the paper, and probably more options that I haven't explored yet.
+Open Triangle Linked Flowers shows a dense arrangement of closed hexagons, open triangles, and standard rhombi - all on the same side.
+Would you tuck your triangles under or over?
+The crease pattern won't tell you, but you must decide if you want your tessellation to lay flat.
+I generally choose to emphasize the highest symmetry point - the hexagon.
+What would you choose?
+Diagonal grids on hexagons make these lovely hexagonal edges, but there are few patterns that exactly align to that grid.
+This particular pattern was so close that I decided to sacrifice exact alignment (and not fold a nasty fraction to start) in favor of a clean border.
+Can you tell the difference?
+How far off from alignment is this tessellation?
+Open Triangle Linked Flowers seems like a pretty advanced tessellation, but you can get there in only 6 steps (or tutoring sessions ;) ).
+The key is to master each step before moving on to the next.
+First up are closed and open triangle twists.
+Next are closed hexagon twists.
+Then rhombus twists and triangle wraps.
+Then you'll want to arrange the twists in the same order, but spaced further apart.
+Finally, you can put these twists closer together to fold Open Triangle Linked Flowers!
+
+Hybrid Rosettes Origami Tessellation
+As I'm folding I have a constant refrain of "wouldn't it be cool if ..." going through my head.
+This time that thought popped up as I was preparing for the square tiling lessons in the current round of Tessellations by Tiles and coming up with new designs that take advantage of extended symmetry patterns available in the tiling.
+I knew what would happen if I used the hybrid twists to add extra space to a closed square in a weave pattern - that's Square Knots Weave - but what would happen if the hybrid twists went the other way?
+It turns out that the pattern needs more twists to arrive at a repeat, and shifting the pleats this way puts the next twists on the back! 
+Like many other square tiling patterns, Hybrid Rosettes has two distinct positions of 4-fold rotational symmetry and one position of 2-fold rotational symmetry.
+Unlike the basic patterns in this tiling, not every twist is in a position of rotational symmetry.
+Can you spot which twists are in the rotationally symmetric positions?
+Hint: all the closed squares are in rotationally symmetric positions, but only some of them are in the 4-fold positions.
+Check out the alignment here - can you see where I broke with the rest of the pattern?
+Seeing the relationships with other patterns can sometimes give you extra options when it comes to the border.
+Since Hybrid Rosettes is so closely related to a simpler pattern of alternating front and back closed square twists, I could easily change the lone hybrid squares at the edges into closed square twists.
+The skills to arrive at Hybrid Rosettes are quite manageable.
+You'll need:
+Not so bad, right?
+If you're interested in going down this path with me, book a discovery call for tutoring today!
+
+Spinning Saws Origami Tessellation
+Rotated grids are a powerful tool for folding display-ready tessellations.
+Since I figured out the mathematical underpinnings of this tool last year, I've considered rotation for every single display-style tessellation that I've folded.
+But when I talk about rotated grids, many people's eyes glaze over.
+It's not obvious to non-tessellators whether a piece has been folded on a rotated grid or not - and even experienced tessellators can struggle to identify rotation if they're not familiar with the technique.
+The bottom line with rotation is that I use it to align repeating elements of the pattern with the edge of the paper.
+This alignment is fairly rare in the tessellations that I design, and it's important to achieve alignment to have consistent borders the whole way around.
+Where are the positions of rotational symmetry; the 6, the 3, and the 2?
+Can the twists be separated into clusters, with flexible spacing in between?
+What twists are used? In what order and on which sides?
+What are the different loops that form the tessellation?
+These are the questions that come to mind as I'm looking at the structure and shape of Spinning Saws.
+As with all tessellations, you can view Spinning Saws from the front, the back, and each side with light.
+Unlike other tessellations, you can actually see the line of thought that led to this one!
+Check out my video on designing with crease pattern building blocks to see the genesis of this design and get these blocks for yourself!
+Spinning Saws is an example of what I call the Hex-Rhomb-Tri-Rhomb Expanded tiling.
+Unlike the Hex-Rhomb-Tri-Rhomb tiling, the triangle twists are not positioned in locations of 3-fold rotational symmetry and there is more than one type of loop in the tessellation.
+The twists form clusters that can be spaced arbitrarily far apart, which makes this tiling easier to fold than its seemingly-simpler counterpart.
+Folding this tessellation requires mastery of closed hexagon twists, open triangle twists, rhombus twists, placing triangle twists on the back side (triangle wraps), and practice using these three twists together in other tilings is highly recommended.
+
+Shrinking Violet Origami Tessellation
+Most of the time when you see a tessellation with only hexagons and triangles, there's only one hexagon and only one triangle and they alternate back and forth.
+But that's not the only way!
+Using the Hexagons and Triangles 6-fold Islands symmetry gets you a choice of a second hexagon too.
+You can choose an open or closed central hexagon, a triangle of any type on any side, and then a hexagon of any type on any side too!
+I figured out that all of the options work by playing with my crease pattern building block templates, and so can you - sign up to get the free templates here.
+Shrinking Violets is an example of the Islands symmetry, with the open hexagon twists in positions of 3-fold rotational symmetry.
+I chose a closed hexagon twist for the center, closed triangle twists on the opposite side at tube pleat spacing, then open hexagons on the same side as the central hexagon.
+These choices give a visually pleasing result that doesn't create too many challenges for folding - try it for yourself!
+If you'd like a crease pattern, you can get it here.
+The Islands symmetry on the Hexagons and Triangles 6-fold tiling is a tricky one to align.
+The repeating 6-fold parts of the pattern are not aligned with a natural tiling break, so you must choose between aligning the closest repeats with the edge ( which means folding all the way to the edge) and aligning the tiling breaks with the edge (so you can leave a border).
+In this case, I chose to align the direction of closest repeats.
+This alignment is done with a rotated grid, tailored specifically to the tessellation at hand.
+You can learn to align your tessellations too - and the math doesn't even go beyond fractions!
+Check out my rotated grids blog to learn more.
+The path to folding Shrinking Violet isn't as long as you might think - with the right tessellations, you could get there in 6 steps.
+The skills needed are as follows:
+Many tessellations, even recently discovered ones, can be taught in relatively few steps to a beginner.
+This is not to say that these tessellations are easy, just that there are few skills to practice to get where you want to go.
+And it's no wonder that folders struggle to recreate what they learn at conventions too - if intermediate skills are skipped or the tessellation is taught in precrease-and-collapse form it will be very difficult to fold again.
+That's why I use a skills-based approach whenever I teach tessellations.
+I focus on applying concepts instead of teaching specific patterns so that my students can actually understand what they're folding and why.
+
+Groovy Triangles Origami Tessellation
+Groovy Triangles and Emergent Hexagons are one space away, yet feel worlds apart.
+The dominant feature in backlighting of Groovy Triangles is a Star of David made with open triangle twists on alternating sides, while the dominant feature of Emergent Hexagons is a honeycomb structure of solid dark bars.
+This is something I've found with other closely related tessellations too.
+In equilateral triangle tiling tessellations with clusters of four twists, there are several spacing considerations: between clusters, within clusters, and global lines.
+ In Groovy Triangles, the spacing within clusters is as dense as possible, with spacing between clusters one more than the minimum, and no larger variations in spacing.
+Look closely at Groovy Triangles - what do you see?
+Can you see that half of the twists are on the back and half are on the front?
+Can you see that there are three open triangles clustered around each closed triangle?
+Can you see that that exact cluster is repeated on the back?
+How many clusters do you have to go through to get back to your original cluster?
+Where are the positions of 3-fold rotational symmetry?
+Are they in twists or in empty spaces, on grid intersections or grid triangles?
+What parts could be tighter together? Further apart?
+Most of these questions are geared towards understanding the structure so you can fold it on your own - with or without a crease pattern.
+Since Groovy Triangles has the same cluster of four triangle twists on both sides, it ends up showing the same pattern on both sides.
+Now, when I say "same pattern", I don't mean "exact duplicate" - the pattern on the other side might have a different rotational direction and position than the pattern on the front, but all the structural descriptions must stay the same.
+In fact, if I started describing this tessellation I'd need to tell you which direction a specific twist rotated before you could match the side of the tessellation you're looking at with the side I'm looking at.
+Of course, there are subtle distinctions in the physical piece - I keep all of my "hard" grid lines on one side - but without those differences it would be impossible to tell which side is which.
+Groovy Triangles uses simple twists in a complex structure.
+Both closed and open triangle twists are needed, as well as folding on both sides and folding clusters of four twists.
+In order, the skills needed are:
+There are many ways to gain these skills - my YouTube video on triangle twists is a good start and my courses, especially Basic Twists Bootcamp and Tessellations by Tiles, go deeper into these topics.
+Happy folding,
+Madonna
+
+Skew Lines Origami Tessellation
+Skew lines are the lonliest pairs of lines - they don't intersect at a single point, and don't maintain a constant distance from each other like parallel lines.
+They just pass near each other then continue out to infinity.
+It's pretty rare for a tessellation to have pattern elements align this directly when the twists are on opposite sides of the paper - much less have lines in two different directions on the two sides!
+Skew Lines is made up of clusters of four closed square twists, which are then mirrored all over.
+Inside the cluster the twists alternate front and back, giving a vertical orientation on one side and a horizontal orientation on the other side.
+The striping effect is due to differences in the appearance of closeness of the mirror lines to the edge of the cluster on the two sides - the top and bottom edges of the cluster are mirrored closely on the front while the left and right edges are mirrored closely on the back.
+Thus, stripes in different directions on the two sides!
+How many clusters can you see here? (Hint: how many stripes are there?)
+Which twists belong to the cluster and where are the mirror lines?
+When you can analyze a tessellation, the previously-mysterious becomes visible and then doable.
+But just because a pattern is visible to you doesn't mean that you have the physical skills to replicate it in another sheet of paper.
+And that's where having a training path to follow that teaches the needed skills one by one is really helpful.
+The skills needed to fold Skew Lines are as follows:
+These skills can be learned on your own (and you may alread have some of them), but it's much faster and easier to learn from a teacher.
+That's why I have tutoring packages available, and I've already figured out which tessellations to teach in what order to take you from pure beginner to folding Skew Lines!
+
+Star Weave and Reverse Engineering
+So, it turns out that we have more choices available to us than we might suspect with Hexagon and Triangle 6-fold tilings!
+Instead of just having one choice for the next hexagon out from the middle, we actually get four hexagons to choose from - closed or open on either the front or the back.
+And that's after we choose the central hexagon (2 choices) and the triangle twist (also 4 choices)!
+Taking all of these options into account, we have 2*4*4=32 options for arranging hexagon and triangle twists in this extended symmetry and we haven't even talked about spacing yet.
+Looking from the "weave" side of the pattern, we can clearly see which hexagons have 6-fold or 3-fold rotational symmetry.
+(If you squint it's even clearer)
+What may not be clear is the location of the 2-fold rotational symmetry.
+Whenever there's a 6-fold rotational symmetry in a repeating pattern there are also positions of 2- and 3-fold rotational symmetry.
+In this case, our 2-fold symmetry is in the center of the loops with two closed hexagons.
+When I'm designing new tessellations, I usually have a specific pattern in mind.
+For Star Weave, that pattern was the extended symmetry on a hexagons and triangles 6-fold tiling.
+But how did I know about that pattern?
+I didn't know about that pattern until recently, even though I had used it in a design over 2 years ago.
+I didn't know that pattern until I started focusing on the locations of symmetries that are possible in specific tilings - until I started trying to explain why different options are available to my Tessellations by Tiles students.
+And let me tell you - this knowledge has rocked my world!
+All of a sudden, many patterns that I thought were one-off coincidences are actually explainable, predictable, and systematic.
+New variations in these patterns are intentional - like Star Weave.
+I thought I had been paying close attention when I was focusing on tilings, but I was actually making simplifying assumptions left, right, and center.
+Now I recognize that it's not only the tiling that matters, but how you apply symmetry to that tiling.
+When I was starting to fold tessellations in 2017, I quickly exhausted the supply of video tutorials and moved on to photo tutorials, then to reverse engineering.
+Luckily, the tutorials I did find taught me the basic twists - closed and open square, triangle, and hexagon twists and also rhombus twists.
+With that background and an awareness of some simple tilings (square, equilateral triangle, hexagons and triangles 6-fold) I was able to reverse engineer my next 100+ tessellations.
+And so can you.
+With an eye to which twists are being used, how they're connected, how far apart they are, and how they repeat you can reverse engineer any twist-based tessellation.
+Watch the video above for more tips specific to various difficulty levels of tessellations, then follow along with the folding at the end to fold Star Weave for yourself!
+
+How to Fold from a Crease Pattern
+This is the post where I try to condense down years of folding experience into 90 minutes.
+Here's the short-short version:
+And here's a bit more detail:
+I work through two example tessellations in the video below - a simple one with all twists on the same side, and a more complex one with twists alternating front and back.
+To start folding from crease patterns, we must first decide what part of the pattern to fold - what to put in the center, and how many repeats we want.
+I explore this aspect much more, along with rotated grids and other specialty grids in my Project Planning Masterclass.
+Next, we need to actually fold the grid (I use 32-fold grids this time, which is also my recommendation for beginners in general).
+Finally, we can start folding!
+I start my tessellations in the center and work my way out.
+The center will either be in a twist, or in the middle of a loop of twists.
+Even if you can fold the center of the loop as a twist in its own right, it's much easier to start with a single twist and work around the loop, as I do with the triangle-grid tessellation in the video.
+Once you've started folding, you'll want to look out for places where you don't have any pleat overlaps - I call these natural tiling breaks.
+These are good stopping points for coming back the next day, and also pose challenges for deciding where to fold the next twist.
+Both of the tessellations in the video had just one layer of twists between one tiling break and the next - this will not always be the case and is something to look for as you fold.
+Another feature of natural tiling breaks is that each side of the tessellation will have only pleats that are parallel to each other coming out of that side.
+In the Alternating Square Weave case, these pleats faced opposite directions, forming tubes, and we identified where to start by finding the pleat on a given edge that was the most stepped down away from the center - and therefore least likely to cause a pleat to run through already-folded twists.
+In the Isoarea Spaced Stars case, these pleats were all in the same direction, like stairs, and we started from the top and worked our way down.
+These two heuristics on where to start after a natural tiling break will get you through the simple tessellations and allow you to build the repetitions needed to figure out more complex pieces.
+Enjoy!
+
+Hybrid Hex Weave Origami Tessellation
+These hybrid hexagon twists (there's actually two kinds) are 3-fold rotationally symmetric.
+This is weird for something with 6 pleats - usually these kinds of twists have 6-fold rotational symmetry.
+But by putting the 3-fold six-pleated twist in the middle, I was able to push the remaining two 3-fold symmetries out to the next hexagons and use two different kinds of triangle twists.
+And so Hybrid Hex Weave uses three different kinds of hexagon twist and two different kinds of triangle twist while the simplest patterns in this tiling use only one of each type of twist.
+I've found other varieties of patterns that use two hexagons and one triangle, or two hexagons and two triangles, but no other patterns with three hexagons and two triangles (yet).
+Can you spot which spots have the hybrid hexagon?
+They look a lot like closed triangle twists, but in this case the hybrid hexagons have three open triangles around them and the closed tirangles seem to have two open hexagons.
+Likewise, each of the hexagon twists (hybrid included) have three closed and three open triangle twists around them.
+Another way to spot them is to triangulate between three open hexagons or three closed hexagons - there's always a hybrid hexagon in the middle.
+From the front of this piece, the hybrid hexagon twist looks very much like a closed triangle twist.
+From the back, however, it resembles a large triangle twist that mysteriously has two pleats coming out of each corner!
+You can spot the hybrid because the edges of the "triangle" on the back are on grid lines, unlike the other triangle twists.
+Three of the pleats outline the edges of the triangle, and the other three are tucked underneath.
+I don't have a tutorial for this twist yet - expect it by the end of June.
+In this particular folding of Hybrid Hex Weave, I chose to use a diagonal grid on a hexagon even though that wasn't strictly aligned with the repeats in the pattern.
+As you can see, I let the pattern come very close to the edge and I have notches out of my perfect hexagon border.
+Next time I'll either leave more space on the edges or actually align with the pattern repeats.
+All three of the hexagon twists used are centered on grid intersections, so all three are equally useful as centers of the tessellation.
+Which hexagon twist - closed, open, or hybrid - would you put in the center?
+Drop a comment below and then grab the crease pattern to fold it yourself!
+
+How to Read a Crease Pattern
+It's easy to get sucked into the details of the exact placement of mountain and valley folds when you start looking at crease patterns for tessellations (and then think you need to precrease and collapse them!), but there's a simpler way to see these patterns.
+When I look at a crease pattern, I look for the positions, relationships, contents, and spacing in the pattern.
+The positions and relationships that I'm referring to here are for the generalized form of the tessellation - the tiling.
+So, I may have square positions in an alternating relationship or square positions in a mirrored cluster of four relationship (among other possibilities).
+I may have equilateral triangle positions in alternating, mirrored clusters, or other relationships.
+I may have a mix of shapes, like hexagons and triangles in 6-fold symmetry or hexagons, triangles, and rhombi in 6-fold symmetry.
+There's a limited set of tilings used in simple tessellations, namely the square tiling, equilateral triangle tiling, hexagons and triangles 6-fold tiling, and a smattering of others involving rhombi and right triangles.
+In fact, if a tessellation uses a different tiling I wouldn't call it a beginner tessellation.
+The relationships are constrained by symmetry relationships, and therefore constrained to the 17 wallpaper groups.
+The importation relationships for our purposes consist of mirror lines and rotational symmetry, either 2-, 3-, 4-, or 6-fold.
+If the highest rotational symmetry is 2-fold, it's paired with mirror lines and up to 3 other distinct 2-fold rotationally symmetric points.
+If the highest rotational symmetry is 3-fold, the pattern will have two other distinct locations with 3-fold rotational symmetry.
+4-fold rotationally symmetric patterns will have two positions of 4-fold symmetry and one position of 2-fold symmetry.
+6-fold rotationally symmetric patterns will have 3- and 2-fold rotationally symmetric positions that outline a hexagon around the 6-fold center.
+So, what I'm really looking for in my first glance at a crease pattern is:
+Looking at the crease pattern in skeleton form can give me answers to both of these questions.
+The skeleton simplifies the crease pattern so I'm only looking at the twist type and arrangement - not the specifics of the pattern.
+It's also easier to spot symmetries from the skeleton - whether a twist is in a position that allows its maximum possible rotational symmetry is immediately apparent.
+For more details about how to draw and analyze a crease pattern skeleton, check out the video at the bottom of the post.
+Here's a hint: twists can go in positions with rotational symmetry that are factors of the maximum rotational symmetry of the twist on its own.
+So, a hexagon twist can go in positions of 6-fold, 3-fold, 2-fold, or no rotational symmetry but never in a position of 4-fold rotational symmetry.
+Where positions and relationships were focused on abstract, general properties of the crease pattern, contents and spacing are focused on the particulars of the crease pattern.
+Here's where we ask questions like:
+So, if I'm working on a pattern with hexagons and triangles in 6-fold arrangement I might look at the crease pattern and say:
+"This tessellation has closed hexagon twists alternating with closed triangle twists, both on the same side of the paper, and with tube pleat spacing between everything."
+That description would be enough for me to fold the whole thing - no crease pattern needed.
+I analyze the pattern I just described and several more in the video below in more depth than I can write out here - check it out if you'd like to dive deeper!
+The skeleton notation has been useful for my students in identifying what parts of the crease pattern to focus on, and I now include it by default in all of my crease patterns.
+If you have any questions about reading crease patterns, either drop a comment below or send me an email and I'll get back to you shortly!
+Happy folding,
+Madonna
+
+Dancing Pyramids Origami Tessellation
+Sometimes it can be hard to tell what's 3 and what's 6.
+Now this may sound confusing - how can you not know the difference between 3 and 6?
+But when there's 6 things, with alternation between each one, is it 3 or is it 6?
+In terms of rotational symmetry, the answer is 3.
+In terms of twists in a loop, the answer is 6.
+And to make matters worse, you can't look for 3-fold symmetries around the point in question to decide - they're all going to be 3-fold in either case!
+You can, however, look for 2-fold rotational symmetries - those only show up around 6-fold centers.
+And this pattern doesn't have any 2-fold rotational symmetry - no matter how much it looks like it in backlighting.
+Seen up close, it's hard to see how we might think that this tessellation has 6-fold rotational symmetry.
+It's very clear that there are 3 triangles on each side per cluster, three trapezoids close to those clusters of triangles.
+But are those trapezoids connecting directly to the triangles on the front?
+Each trapezoid is really connecting to the paired trapezoid on the long edge, two trapezoids on short edges on either side, and a closed triangle twist on the back with the middle short edge.
+If Woven Strips from last week was Hexagons and Triangles 6-fold with a split hexagon, Dancing Pyramids is Hexagons and Triangles 3-fold with a split hexagon.
+Whenever you have patterns like Dancing Pyramids where there are three positions of 3-fold rotational symmetry - no matter what is in the pattern - the three rotationally symmetric positions are always equidistant from each other and form 60° angles.
+In other words, the locations of 3-fold rotational symmetries always form an equilateral triangle grid.
+This is what it means for a tessellation to have fundamentally triangle nature.
+For a tessellation centered on a grid intersection, this means that the two other 3-fold symmetry points are either both on grid intersections or both on grid triangles - not one grid triangle and one grid intersection.
+So, which option did Dancing Pyramids go with?
+Drop a comment below with your answer!
+Every tessellation folded from a regular grid fits into one of six symmetry natures: hexagon, square, triangle, rectangle, rhombus, or stripe.
+The symmetry nature defines the repeating tile of the tessellation - the portion of the pattern that contains everything you need to know to fold the whole pattern - and is closely related to the tiling.
+The distinction is that a single tiling may have multiple possible symmetry natures - there are many ways to cut a hexagon or triangle out of a Hexagons and Triangles 6-fold tiling.
+And just because a tiling is typically used with the simplest available symmetry nature doesn't mean that it's the only one available.
+Many tilings have hidden depths, if only we dare to explore them.
+And that's exactly what I've been exploring with my Tessellations by Tiles students - how to fold in 20 tilings and what hidden depths are available in each.
+This Trapezoids and 6 Triangles tiling is one of the ones I explore with my students, along with three other tilings that use trapezoids.
+
+How to Fold Your First Tessellation
+You may think that folding your first tessellation on a square grid would be easier, but triangle grids allow you to have 3 pleats coming together instead of 4 - plus they lay down flat without adding any extra creases!
+Managing many pleats at once is one of the harder things about tessellations, but using these three-way intersections one at a time lets us minimize the difficulty and focus on the steps.
+These three-way intersections can be put together in a huge variety of ways, from rotational to mirrored to combinations of both.
+In this video I focus on a mirrored approach that's rearrangeable once you're done.
+For a deeper dive into starting with tessellations and many more options for folding with only grid lines, join me in Tessellation Foundations!
+The three-way intersection I taught in this video has multiple identical ways to lay down the pleats, but you know what has many different ways to lay down the pleats? 3-way intersections on 45 degree grids.
+I show you all of these intersections inside of Tessellation Foundations - check it out!
+My next two videos will focus on crease patterns - reading them, then folding from them.
+The key steps in reading crease patterns are recognizing the pieces and seeing the structure behind them.
+I introduced one piece today - the three-way intersection on triangle grid - and one structure - loops of six triangle-shaped things - and I'll take you on a tour through many more next week.
+Happy folding,
+Madonna
+
+Woven Strips Origami Tessellation
+When we start folding tessellations we're presented with a couple grid options - all of which are aligned with the edge of the paper in some way.
+This fact is invisible in the way we talk about grids too.
+We don't say "square grid aligned with the edges of the paper" - it's just "a square grid".
+But really a grid is an abstract concept and we have to make decisions about how we're going to apply that concept to the paper in front of us.
+So, what if we want to align our grid to something else?
+What if we want to align our grid to the pattern repeats?
+That's where rotated grids come into play.
+This alignment question comes into sharp relief with patterns like Woven Strips where the pattern repeats in stripes that are very clearly not oriented in alignment with the edges of the paper!
+While I have done the math to align this kind of pattern on this kind of grid, I haven't tested it yet in practice - which is why this piece isn't aligned with the repeats.
+We see these shifting horizontal bars in the pattern, crossed by slanted bars.
+It's as if the trapezoid twists are pushing the slanted bars into place, like a rotating portion of a machine.
+In this particular orientation it also looks like thrust faults and rolling waves of tsunamis.
+In the vertical orientation it looks like a chain of buckets, raising and lowering some cargo.
+This trapezoids and triangles tiling is very similar to the common tiling of hexagons and triangles with 6-fold rotational symmetry.
+Each pair of trapezoids fits into one hexagon of the more common tiling and so, just like that tiling, this tessellation has six triangle twists around each pair of trapezoids.
+The twist is that the two trapezoids in the pair are on opposite sides of the paper, and so you get the same number of each kind of twist on each side.
+As far as I can tell, this tiling will have the same kinds of variations as the simple hexagons and triangles tiling.
+The "hexagon" in this case is fixed as the isoarea pair of trapezoid twists - all that remains is a choice of closed or open triangle twist, on the same or opposite side as the closest twist.
+Whenever I'm talking to people unfamiliar with tessellations, they have an intuition that the tessellations have all been discovered - that there's nothing new left to find.
+That couldn't be farther from the truth!
+In fact, there are thousands of tessellations waiting to be discovered.
+Nearly every week I figure out some new system of tessellations - usually with at least a dozen possible variations.
+Now, I'm only seeing three obvious variations on Woven Strips, but that doesn't include changing spacing or going to more open triangle twists.
+It also doesn't include longer-range repeats, adding spacing between particular repeats, or adding spacing in particular directions.
+It doesn't include keeping the trapezoids on the same side and adding mirror symmetries or seeing if I can use different triangle twists in the same tessellation.
+The more you look, the more you find.
+Happy folding,
+Madonna
+
+How to Start with Tessellations
+Many folders would like to start learning tessellations, but aren't sure where to start.
+In this video I introduced the four major grid types that every tessellation folder needs to know and clarified the distinction between twist-based tessellations, corrugations, and tessellations that require an all-at-once collapse.
+You see, there are easier and harder ways to fold tessellations and when many folders see a crease pattern for the first time they think that they need to precrease everything and then collapse all at once.
+That's actually the hardest way to learn tessellations - you have more work at the beginning, more work to get the collapse, you're liable to unfold as much as you fold, and the paper is often uncooperative.
+It's much easier to start from a grid, then put in one twist at a time in a secure way that doesn't unfold as you work on the next one!
+It's also easier to start with a guide, and you can find my free Tessellation Foundations series here.
+I break the knowledge needed to fold tessellations down into three main categories: folding skills, building blocks, and structures.
+Folding skills are most important in the beginning - you'll need to be able to translate your intentions into actions in order to fold any tessellations at all!
+My Tessellation Foundations series is aimed at building these skills of gridding, folding pleat intersections, reordering pleat overlaps, and starting to recognize these elements in broader structures, including in crease patterns.
+These folding skills are the How of tessellations and at this level you'll be able to follow along with workshops.
+Building blocks are next up - you'll need to identify what you're folding so you can remember and repeat it later.
+I teach the 8 twists every tessellation folder needs to know in Basic Twists Bootcamp, with 10 workshops focusing on a progressively advancing series of tessellations with challenges to use these basic twists in other arrangements too (join the waitlist here).
+These building blocks are the What of tesselations and when you recognize them you'll be able to fold from crease patterns and start reverse engineering from photos.
+Structures are the final step - you'll need to know how things fit together if you want to create your own tessellations.
+This includes tilings and symmetries, which were the main focus of my recent FoldFest talk, where I explained the most common structures and introduced a few more exotic ones.
+It's also the focus of my Tessellations by Tiles course that I run each year, which teaches 20 tilings over 24 weeks (join the waitlist here).
+These structures are the Why of tessellations and when you learn them you'll be able to create your own variations and designs.
+Of course, you can't completely divorce structures from building blocks or building blocks from folding skills - we use all of these categories of information in every tessellation we fold - but it's useful to think of these three categories as progressive focus areas so you don't get overwhelmed with all the things to learn.
+And there's always more to learn - there's no end to the advanced techniques in all three categories from rotated grids to hybrid twists to advanced tilings.
+My next few live videos will focus on helping you start folding tessellations, especially from crease patterns.
+First up is how to fold your first tessellation using only grid lines on a triangle grid.
+Next is how to read a crease pattern, and finally I'll teach how to fold from a crease pattern - without the tough collapse!
+Head on over to my YouTube channel and subscribe so you don't miss them - I'll be going live on Tuesdays at 2pm NY time.
+
+Knotted Web Tight Origami Tessellation
+As the name implies, Knotted Web Tight is a close relative of Knotted Web - everything's just one spacing closer together.
+Interestingly, the donut shape that's somewhat visible in Knotted Web is much more pronounced in Knotted Web Tight and shows up as overlapping circles in the backlighting.
+This was a huge surprise to me when I first saw it while I was folding!
+No part of this pattern is actually curved, and yet the backlighting seems to show only curves!
+What's more, since this is an isoarea pattern the same backlighting is seen on both sides.
+When you look closely at Knotted Web Tight you don't see the circles as clearly as you do from a zoomed-out view.
+Instead, I see three triangles and a hexagon forming a larger triangle, which is then arranged in a way that creates alternating large and small triangular gaps.
+I see three positions of three-fold rotational symmetry - one in the hexagon, one in the small triangle gap, and one in the large triangle gap (which is actually a hexagon twist on the other side).
+I see that every other pleat from the hexagon twists is going to another hexagon twist - not a triangle!
+I see that the triangles right next to the hexagons aren't actually on pleats coming directly coming from the hexagon - all pleats from twists on one side connect directly to twists on the other side.
+Did you know that you can put hexagons into isoarea arrangements?
+If you're using the standard way of connecting them, you'll end up with all hexagons on the same side.
+This means they'll all be on either the front or the back of the pattern and you won't have an even split of some on one side and some on the other and your pattern won't be isoarea.
+But if the hexagon is connected to three hexagons and three triangles instead of to six triangles, then you can (under limited circumstances) put them on alternating sides!
+I was just exploring this tiling further before I teach it to my students in Tessellations by Tiles and these cases of Knotted Web and Knotted Web Tight that end up being the same on both sides are the exception, not the norm.
+The more typical case is to take a hexagon and three triangles, then mirror this cluster to form the full tessellation.
+The only way to get these clusters on alternating sides is if the pleats match up perfectly when you flip the paper over, which is exceedingly rare.
+So even though the ring of six triangle twists is central in the pattern, the specifics of the ring result from the interplay of these clusters of a hexagon and three triangles.
+This means that these tessellations can't be designed from the inside out - only from the cluster out!
+If you'd like to learn design tips like these in more depth and practice designing your own tessellations with support and guidance, sign up for the Tessellations by Tiles waitlist here to be notified when enrollment opens again.
+
+How to Play with Twist Blocks
+Whenever I look at tessellation crease patterns, I mentally  break them up into their component parts.
+With twist-based tessellations, those parts are twists and they're connected by pleats.
+The good news is that the same set of twists are used over and over again in different tessellations, which means that we can treat them like building blocks and drag and drop to snap them together!
+I made a set of digital twist blocks in both square and triangle grid for my Tessellations by Tiles students last fall and found that they really speed up the diagramming process - sometimes as fast as 10 minutes.
+My students have been using these blocks to create their own designs - and so can you!
+This is a bonus that I made for my students, but it's so useful that I decided to give it away here - for free!
+When you submit your info you'll get an email with instructions on how to download and use the files.
+Be sure to download the files on a laptop or desktop though - I don't know of any vector graphics software that runs on phones.
+I recommend installing Inkscape to open and edit the files - it's a free open-source software that I use personally for all my diagramming needs.
+
+Lens Garden Origami Tessellation
+Sometimes when you're thinking about tessellations, often when you're looking at what someone else has folded, you have a flash of insight and see new possibilities for patterns that you hadn't considered before.
+That's exactly what happened when I was looking at Miguel Gañan's book, Twist and Tess, when I first got it.
+I was looking through the crease patterns for interesting tilings, and came across a pattern that used the hexagon-rhombus-triangle-rhombus loop (which is usually very restrictive) in an expanded form that has specific places where the spacing is very variable!
+Immediately, I thought of Lens Stars and saw the opportunity to apply a whole variety of tessellations to this expanded tiling.
+I don't know what it is about the closed triangle on either side of the standard rhombus twist, but I try to use that motif in as many different ways as I can.
+Dancing Ribbons, Lens Stars, Escalation, Purl, and Lens Garden all share this motif - each in a different tiling pattern with a different end result.
+Of course, a signture motif won't be used in every single tessellation you design - I just completed an inventory of my designs and documented over 160 distinct tessellations - but there's still something special for me about these few where it does show up.
+Lens Stars had combined that special motif with my favorite symmetry - 6-fold rotation - so I was really thrilled to see it again with Lens Garden too.
+While Lens Garden doesn't have natural tiling breaks, the flexibility of spacings between clusters of twists still gives lots of border possibilities.
+Even at this relatively dense spacing, I was able to accommodate the pleats approaching the edge without forming partial clusters.
+One note of caution though, for those who buy the crease pattern: the alignment calculations change depending on the spacing between repeats.
+For the given spacing in the crease pattern, the a/L given on the cover page gives exactly the alignment you see here, but other spacings will shift further and further away from the given fraction.
+If you can fold Lens Stars, you can definitely fold Lens Garden.
+The repeats are further apart, but so are the pleat overlaps - a key to ease of folding!
+And thankfully, adding spacing between the clusters in this case makes it even easier to fold.
+No need to precrease either - everything can be folded straight from the grid.
+I gave this tessellation a 3/5 difficulty rating, mostly for the extended tiling and the fact that there's no natural tiling breaks where you can stop without pleat overlaps.
+
+What's a Tiling - and why does it matter?
+I addressed this very question in this week's livestream, which you can see here:
+Tilings are the roadmap for where pleats go and what they connect in a tessellation.
+They're also the level of analysis that's most beneficial for folding and designing.
+After all, if you know that a particular hexagon in a pattern is in a position of 6-fold rotational symmetry and you know one of the things that goes next to it, then you know all of the things that go next to it!
+Thinking in terms of tilings and symmetries allows you to generalize and describe tessellations more succinctly too.
+For example, the hexagons and triangles 6-fold tiling has a simple alternating symmetry available where you can choose one hexagon twist, one triangle twist, and the spacing between them and with those three choices describe the entire tessellation.
+Now I don't know about you, but those three choices are much easier for me to remember than an entire crease pattern!
+In fact, you may have been thinking in terms of tilings already and not realized it.
+For example, if you know that square twists go together in loops of four twists or that triangle twists go together in loops of six, that's thinking in tilings.
+The benefit of thinking in tilings explicitly instead of implicitly is that you can plan longer-range patterns and anticipate potential problems while folding.
+Now that I've been aligning my pattern repeats to the edge of the paper in my display pieces, I've become very sensitive to whether my repeats are aligned with natural tiling breaks - places where you can stop folding without having pleat overlaps.
+This alignment determines whether I'll need to fold all the way to the edge or if I can leave a clean border.
+If I was only thinking in terms of what twists go next to each other, I wouldn't be able to see this broader pattern.
+The kicker is that I've identified several tiling patterns, including one that's used frequently, that don't have natural tiling breaks at all!
+Whether you're using tilings to better understand what you're folding or for coming up with new designs, I hope you keep looking for the deeper structures underlying origami tessellations and see if you can come up with a few of your own!
+Happy folding,
+Madonna
+
+Purl Origami Tessellation
+You can see many things in any tessellation - here I'm seeing a close mimic of the purl knitting stitch, and also an Easter bunny.
+I'm also seeing parallel mirror symmetry lines with a string of twists between them, a sequence of triangle-rhombus-triangle that I use in many tessellations, and an unusual arrangement of rhombi and triangles.
+Which aspect I choose to emphasize varies with the lighting, the level of zoom, and who I'm talking to.
+As we look closely at this tessellation, we can see that there's the zigzagging rhombi and triangles, and then there's the rhombi that go between these zigazgs.
+While there are 2-fold symmetric positions within the zigzags, the rhombi between are not rotationally symmetric at all - on one end they are tucked under a pair of triangles and on the other end they just meet the tips of the triangles.
+This small piece of asymmetry removes any possibility of rotational symmetry from the whole pattern.
+Instead, we have mirror symmetry lines lying against the ends of our triangle-rhombus-triangle strips providing all the global symmetry in the pattern.
+Since all of the twists are on the same side of the paper, the back side appears to have multiple pieces that were woven or pieced together.
+This is a common property of simple tessellations - and a nice compensation for these patterns taking up more grid space per repetition!
+Often, tessellations with twists all on one side have been folded by multiple folders already - at least in the common tilings using standard twists.
+But, standard tilings revolve around rotational symmetry and this tiling definitely does not, so I'm confident that Purl is a new design.
+Purl is the simplest tessellation in its tiling (barring spacing changes), with all twists as closed as possible and all on the same side of the paper.
+Its basic unit is composed of two rhombi and two triangles, with no rotational symmetry constraints on the choice of each rhombus and each triangle.
+In theory, you could choose each twist independently to be either closed or open, front or back.
+You'll still want to preserve the mirror symmetry, so alternating properties of columns is probably not an option unless two columns are fused and then mirrored.
+I invite you to play with this tiling and find new tessellations - then tag me (@gatheringfolds) on Instagram or Facebook to show me what you've made!
+You can buy Purl's crease pattern as a reference for your own explorations - the important thing is that all of the pleats are in the same orientations between corresponding twists.
+
+Triangle Grids on Rectangles
+There's plenty of tutorials out there for folding triangle grids on squares, but the translation to folding these grids on rectangles in the orientation of your choice isn't well known.
+That's why I went live this week to talk about these grids - and why you might want to use them.
+We often think of triangle grid tessellations with 6-fold symmetry that work well on hexagons, but there's also tessellations on triangle grids with dominant 3-fold or 2-fold symmetries too!
+In the 2-fold case or cases with one direction of mirror symmetry a rectangle is often the shape that best displays the repeating nature of the tessellation.
+For example, my Purl tessellation has mirror symmetry all in one direction and dramatically different shrinkage rates in that direction vs the perpendicular direction.
+So, in order to get lots of repetitions and a well-balanced result I folded it on a rectangle!
+Feel free to ask questions in the comments below or by emailing me at madonna[at]gatheringfolds.com - and I'd love to hear about other tessellation topics you'd like more clarity on too!
+Happy folding,
+Madonna
+
+Hybrid Closed Islands Origami Tessellation
+Believe it or not, Hybrid Closed Islands has the same tiling structure as Robin Scholz's Celtic Circle.
+Both of these tessellations feature twists with six pleats (hexagon twists) surrounded by twists with three pleats (triangle twists) and vice versa.
+However, when you look at Hybrid Closed Islands it's easy to see only triangles - because the six-pleated twists only have three-fold rotational symmetry.
+In this tessellation, I have three equivalent choices of what to put in the center, and whatever I put in the center will be emphasized in the pattern.
+Each of these three options is centered on a grid intersection, so I can choose up until the moment I put the first twist on the rotated grid.
+However, each of these three options has only three-fold rotational symmetry and I will never be able to get all six sides of a hexagonal sheet to be exactly the same.
+Even so, there are some pseudo-hexagonal structures available and if I fold this tessellation again I'll likely put the very open triangle in the center to get these hive-like effects.
+Even though I've told you that there are hexagon-type twists here, can you spot them?
+The strongest tell is seeing too many pleats, too many triangle twists, coming out of what looks like one corner of another triangle twist.
+The twists with edges on grid lines are the sneaky ones here - just like the hybrid square twist, the closed parts of the hybrid hexagon twist are tucked underneath, hidden from view.
+The Hybrid Closed Islands tessellation has earned a 5-star complexity rating for its use of advanced twists - the hybrid hexagon and very open triangle - and also for the unusual use of the classic hexagons and triangles tiling.
+That said, the difficulty is mental instead of physical and everything can still be folded from the grid.
+One of the trippiest things about this tessellation is that the bars appear to go straight through the pattern, weaving over and under each other, disappearing behind the large triangle holes and reappearing on the other side.
+It's not at all what I expected to see in a tessellation of this complexity - usually there's some offset - but it was a very welcome surprise!
+If you'd like to try folding this tessellation yourself, the crease pattern is available for immediate download after purchase.
+
+Triangle-centered grids on hexagons
+The more I fold grids, the more I realize that the possibilities are endless.
+For example, I used to think that triangle grids on hexagons could only be centered on grid intersections - that I had to start by folding the hexagon in half in one way or another.
+I thought that these designs I was making that were centered on grid triangles could never be properly centered without cutting away some part of the grid after folding it.
+Thankfully, I figured out how to fold my grids centered on a grid triangle - and now I'm sharing this knowledge with you!
+These triangle-centered designs are liable to show up anywhere where you're centering a tessellation on 3-fold rotational symmetry - whether that's patterns with three directions of mirror symmetry lines or completely rotational patterns.
+Usually you'll see six of the same kind of twist around the center in the tiling, and then either six of the same exact twist spaced apart or alternating variations of the same twist in the tessellation itself.
+When the symmetries throughout the pattern are very similar, choosing a center can be more of an art than a science.
+The center I choose usually depends on what will look most hexagonal and make the easiest border - and sometimes that means centering on a grid triangle.
+Thankfully, now I know how to do that and I'm free to fold nice display versions of even more tessellations!
+So, what will you fold with a triangle centered grid?
+Let me know in the comments below!
+
+Knotted Web Origami Tessellation
+If you're already familiar with isoarea tessellations, you might notice something unusual about this one - it uses normal, open hexagon twists!
+Most of the time you'll see isoarea patterns in tessellations with all the same kind of twist - squares, equilateral triangles, right triangles, and occasionally rhombi - placed on opposite sides of the paper in equivalent positions.
+These uniform tilings are ideal for isoarea tessellations because it's easy to map each tile to another tile of the same type on the other side.
+And if the isoarea tessellation isn't on a uniform tiling, it often involves some kind of isoarea twist with half of the edges reversed.
+These isoarea twists tend to be difficult to fold, often involving precreasing.
+But Knotted Web breaks all of these rules - it has two different kinds of twists (closed triangle and open hexagon) and both twists are in their standard forms.
+The trick with Knotted Web is that when you alternate neighboring twists on either side of the paper, you end up with an equal number of hexagons (and triangles) on the front as you have on the back.
+This is only possible when the hexagon doesn't occupy a position of 6-fold rotational symmetry.
+In fact, each hexagon twist here has only 3-fold rotational symmetry in the broader pattern.
+Each open hexagon is neighbored by three open hexagons on the opposite side and three isoarea clusters of closed triangle twists.
+In order to get this alternation, the hexagons are next to each other in the tiling and have different twist directions.
+In the diagram above, you can see the twist direction in the color - red for right handed and white for left-handed twists.
+If no pleats are reversed, then every twist must have neighbors of the opposite twist direction.
+For typical hexagons and triangles tessellations, this is achieved by putting six triangles next to each hexagon and three hexagons next to each triangle.
+Under this typical regime, all hexagons are the same twist direction and all triangles are the other twist direction and so no isoarea tessellations can be formed without isoarea hexagon twists.
+But with this 3-fold arrangement of hexagons and triangles, you'll get an isoarea tessellation every time you alternate the twists front and back as long as each triangle is the same as every other triangle and each hexagon is the same as every other hexagon.
+One of the (many) cool thinks about Knotted Web is that I didn't even need a rotated grid for the pattern to perfectly align itself on a hexagon.
+This is highly convenient - and fairly rare.
+ The only reliable way to get this alignment is with mirror symmetries and without those it's a happy accident.
+I won't say that this tessellation is easy to fold, but it's not too dense, has lots of tube pleats for references, and has stunning results to pull you through the process.
+If you'd like to give it a try, the crease pattern is available for purchase here and you'll be able to access the file immediately after purchase.
+
+Origami Tessellation Terms and Definitions
+While you may already be familiar with origami terms like mountain and valley folds, sinks, squashes, swivels, and rabbit ears, tessellations have a vocabulary of their own.
+Unfortunately, the vocabulary of tessellations is not standardized across all tessellation designers and each tessellation book uses different definitions - and different colors and symbols for their diagrams.
+This can make it hard to learn, since everyone is saying things in different ways.
+I try to stick to consistent definitions throughout my teaching, and to explain my terms in plain English - no math speak.
+Here's my list of the most important terms to understand when you're starting to fold tessellations:
+Grid: Pattern of evenly spaced folds that are used for referencing other folds in a tessellation
+Square Grid: Grid folded in two perpendicular directions, typically on a square sheet of paper
+Triangle Grid: Grid folded in three directions with 60 degree angles at each intersection, native to hexagonal paper and also folded on squares and rectangles
+45-Degree Grid: Square grid with either half or all diagonals added
+Grid (Square/Triangle): Smallest shape outlined by grid lines on a finished grid
+Grid Spacing: The distance of one grid line between two neighboring grid lines in another grid direction
+Single Diagonal 45-degree Grid: Square grid with one diagonal added through each grid square, forming a checkerboard pattern of alignment
+Double Diagonal 45-degree Grid: Square grid with both diagonals added in every grid square
+Mountain fold: Fold that forms a ridge on the side of the paper facing you - shown with red solid lines
+Valley fold: Fold that forms a trough on the side of the paper facing you - shown with blue dashed lines
+Pleat: A pair of parallel mountain and valley folds
+Pleat Depth: The number of grid spacings apart that the mountain and valley folds of a pleat are located, typically one spacing
+Tube Pleat: A pair of two parallel, mirrored pleats with two grid spacings between the closest folds of the two pleats
+Accordion Pleats: Two or more pleats in the same orientation and direction that stack on top of each other in the folded form to make an accordion/fan shape
+Pleat Overlap: Two (or more) non-parallel pleats that cross each other, with one pleat completely closed when the second pleat is folded
+Twist: Rotationally symmetric interaction of at least 3 pleats, with an interior shape created that is not part of the pleat folds
+Pleat Intersection: Interaction of multiple pleats that is not an overlap or a twist (Note: Ben Parker's definition includes pleat overlaps and twists in the category of pleat intersections)
+Crease Pattern (CP): Diagram showing where the mountain and valley folds go on the paper to fold an origami pattern; for tessellations this commonly includes a grid in addition to the folds
+Tiling: An abstraction of the structure of tessellations where each twist or pleat intersection gets its own box; used to categorize and design tessellations and study their symmetries
+Tessellation: Repeating 2-dimensional pattern
+Origami Tessellation: Repeating pattern folded from a single sheet of paper
+Whew - I think that covers just about everything!
+If you'd like to learn more about each of these terms, check out my Tessellation Foundations series where I show how each of these terms are put into practice while teaching the fundamental skills needed to start folding tessellations.
+
+Stars in Stars Origami Tessellation
+In the beginning, everyone learns origami from someone else.
+As you become more advanced, you may start to rely more on recorded tutorials, books, and other diagrams.
+At some point, you start creating your own designs - and then how do you learn more?
+Well, I've learned a ton over the last few years of designing tessellations from other tessellation designers.
+And not just in the regular meetings of the Community for Creators (CFC) or the informal Math, Origami, and Beverages group (email me for an invite!) - I've learned many new techniques, structures, and ideas from following other tessellation designers on Instagram.
+My first attempt at something like Stars In Stars was on a mere 16-fold grid, so I wasn't quite able to see the repeats and I seriously doubted that it would work out.
+However, Dirk Eisner was working on a similar idea, inspired by a tessellation I taught with Origami Maniacs.
+When he posted his solution, I was able to immediately see how to continue the piece I was designing - and that it could be spaced more closely together too!
+You see, this design hinged on the behavior of clusters of twists - not just combinations of individual twists.
+Just like Emergent Hexagons, this tessellation is built on clusters of four triangle twists grouped together.
+These clusters are themselves rotationally symmetric - this means that there's a choice of a center twist and an outer twist, but every outer twist is the same - and can be used in many of the same ways you would use a single twist.
+So, you can have these clusters mirroring their neighbors or alternating front and back - no matter what your choice of central and outer triangles are!
+Look closely - can you see that there are three closed triangles for every open triangle?
+Can you see that these clusters are also repeated on the back?
+One of the things I'm seeing in this tessellation is a whole lot of 3:
+- 3 small triangles making a pyramid
+- 3 large triangles around each cluster of small triangles
+- 3 clusters of small triangles around each large triangle
+- 3 open triangle holes around each cluster of small triangles
+- 3 closed triangles on the other side of the closed clusters
+- 3 directions on the underlying grid
+So, why is this called Stars in Stars instead of Triangles in Triangles?
+Partly it's because the six triangles in a star are more true to the actual structure, and partly because I name my tessellations immediately after folding the prototype and I very rarely see many repeats before naming - or change the name after folding more.
+Also, every single tessellation in this tiling uses only triangle twists - it's all triangles all the way down!
+I see three different ways to fold tessellations, with three different purposes.
+Most of what you'll see on Instagram (or this blog!) are display pieces - planned projects based on a crease pattern made to be photographed, framed, or otherwise displayed.
+But as I alluded to earlier, this isn't the only way to fold tessellations - prototypes and practice pieces are essential for learning.
+Small grids - I use mostly 16-fold - are great for trying out new ideas that you're not sure of.
+I'll often try two prototypes of the same structure with different spacing, or two prototypes of the same pattern with a different center, to see what backlighting effects are available.
+Medium grids - usually 24- or 32-fold - are excellent for practicing a new skill or pattern.
+These are the typical sizes that I ask my students to bring to workshops and tutoring sessions, where I teach a new skill or pattern!
+Custom grids - often rotated (like Stars in Stars was) and with odd divisions - are best for display pieces so you can control the border, decide how many repeats you want, and generally tailor the grid to the particular pattern you're folding.
+So, the three distinct ways to fold tessellations are prototype, practice, and display, but the vast majority of what gets posted on the internet are display pieces - which may lead you to think that everyone else just magically got good at tessellations without practice!
+That is so far from the truth.
+In between the beginner and master stages of folding tessellations is a ton of practice and skill building and pattern recognition.
+Now, it is possible to do all that work on your own - you can reverse engineer patterns from now until the end of time - but there's one question that can't be answered by looking at photos.
+"Am I doing this right or is there a better way?"
+Like most skills, tessellations are learned fastest when you have feedback on what you're doing and suggestions for improvements.
+It's very hard to reverse engineer anything if you don't understand the basic structures - much less pick up on a new general pattern from someone else's design.
+But once you are able to see the structure from a photo you are free to fold anything you see.
+So if you're ready to take your tessellation folding to the next level, I can help you get there.
+The fastest way to accelerate your tessellation folding skills is tutoring - and you can sign up here!
+
+Emergent Hexagons Origami Tessellation
+There are some things that you can't know in advance.
+In the garden I can know what I planted and where, but not when it'll come up or how many plants will survive.
+In tessellations I can know my symmetry pattern, know what twists I'm using and in what spacing, but still not know what will emerge from the backlighting.
+In both cases, the end results are often more beautiful than we could have planned for.
+In both cases, I like to space things close together to see what happens.
+I'm often pleasantly surprised in the garden, just like with my Emergent Hexagons tessellation, at how well the plants grow even when they're tightly spaced.
+Let's take a look at the details - how are the twists connected in this tessellation?Look for a closed triangle twist, then see that it's connected on the same side of the paper to three open triangle neighbors.Each hexagon structure is centered on six open triangle twists that alternate sides of the paper.Can you see that the open triangles on the back also cluster around closed triangles on the back?This cluster of three open triangles around a closed triangle is the dominant structural motif of this Emergent Hexagons tessellation.The next thing to look at is spacing - could these clusters be put closer together? further apart?This is actually the densest possible spacing of these clusters (on a grid) and the only spacing that gives rise to the shadow hexagons seen here. 
+One of the coolest things in tessellations is the ability to fold something that's the same on both sides - aka isoarea patterns.I'll never get tired of flipping the tessellation over and seeing the same pattern again - and then flipping it another 10 times so I can try to wrap my brain around the sorcery involved.When you really look at this pattern you'll start to realize that there actually isn't any true hexagonal symmetry in it - there's always three things on one side and three on the other.But just as you can use six equilateral triangles to make a hexagon, this tessellation appears hexagonal in nature because it's centered on a point where six triangular clusters come together.
+The best way to start folding more advanced designs is to try to reverse engineer the tessellations you see.When you reverse engineer, look for patterns that you could use to make variations.A key pattern in this tessellation is the clusters of four triangles. You'll see that again and again in my upcoming posts too - it's a versatile and under-explored symmetry flavor that's available for tessellations using only equilateral triangle twists.In this particular tessellation, the choices I made were that I wanted clusters of four triangle twists, the cluster would have a closed center and open corners, that neighboring clusters would alternate sides of the paper, and that clusters should be spaced as densely as possible.Those four choices define the infinite tessellation, but not the specific piece of infinity that I folded.For the specific choices I needed a crease pattern to calculate the grid rotation, the amount of grid needed for the repetitions I wanted, and whether I'd get a clean border.If you're interested in folding this tessellation, you can get the crease pattern here.
+
+Hybrid Lattice Origami Tessellation
+We don't usually think of tessellations as being changeable after they're folded, but this one is!The hybrid square twists that it's made of can be folded in one of two ways, making this twist a binary pixel.I chose to align all the twists on the same side in the same direction, but you could choose other patterns - stripes, checkerboards, maybe even letters - and you can have either the same or a different pattern on the other side!I'm calling this design Hybrid Lattice and it could be folded in an even denser spacing to really highlight the binary patterns of the twists.
+What symmetries do you see in this pattern?Are there any 4-fold symmetries? Any 2-fold symmetries? (Hint - which way are the arrows pointing?)How are the twists connected - are all the pleats perpendicular to each other?This tessellation is an unusual example of the square tiling that has no rotational symmetry in its folded form, only translational symmetry.That said, these hybrid square twists have two possible folded states from the initial pleat positions and you could fold a version of this tessellation with 2-fold rotational symmetry with a checkerboard pattern of the hybrid square squash directions on each side.How would you choose to fold this - with or without rotational symmetry?
+Hybrid Lattice is an isoarea tessellation using a square tiling.Now, what does that mean?It means that it looks the same on the front and back (up to rotation, mirroring, and translation) and all of the twists have four perpendicular pleats.Going further, it means that half of the twists are on the front and half are on the back, and (in this case) each of the twists serves the same function in the broader pattern.It's an example of one of the six symmetry patterns on square tilings that I'm teaching inside of Tessellations by Tiles - the alternating twist symmetry.You can play with this symmetry yourself - just pick a square twist (closed/open, front), then pick another square twist for its neighbors (closed/open, front/back). Alternate between these two twists and see what you find!Once you understand tilings and their symmetries, you can write generator functions like the last paragraph to make new tessellation designs - and the possibilities are endless!
+So, what will you make with an alternating pattern?
+
+Rotated Grids Challenge Winner
+We have a winner! Dirk Eisner won the Lens Stars mini suncatcher from a random drawing of all participants in the challenge. 
+ He folded two rotated grid tessellations on squares, helped me extend the math to allow marks that don't lie on the resulting grid (two marks to two marks on a square, and one to one on a hexagon), and even calculated how to fold a rotated grid on a triangle!
+ The suncatcher has safely arrived and looks great in its new home.
+ Thanks to everyone who participated in this challenge! If you want to learn more about rotated grids, check out my previous posts on the topic with the math and practical advice!
+If you're seeing this before Sunday June 27, 2021, you can get your questions answered live through the virtual OrigamiUSA annual convention! I'm teaching a 3-hour session from 6-9pm EDT on Sunday, June 27, 2021 and you can see all the details (and sign up!) here: https://origamiusa.org/classes/convention/2021/rotated-grids-theory-and-uses
+
+Rotated Grids: A Practical Guide
+So, you've seen the math behind rotated grids but you're still confused about how to *actually* use them for your patterns.
+You aren't alone and you're in the right place. Follow along in this replay of my livestream to YouTube and Instagram to learn more about the actual implementation of rotated grids on squares and on hexagons.
+Or, for another perspective on what's going on, check out the replay of the same conversation on IGTV!
+Also, if you're seeing this before June 27, 2021, you can see another take on this discussion and submit your questions live through the virtual OrigamiUSA annual convention! I'm teaching a 3-hour session from 6-9pm EDT on Sunday, June 27, 2021 and you can see all the details (and sign up!) here: https://origamiusa.org/classes/convention/2021/rotated-grids-theory-and-uses
+ If you're still confused, leave a comment down below and I'll do my best to answer all your questions!
+
+Rotated Grids Challenge
+Here is my challenge to you: fold a tessellation on an appropriately rotated grid and post a photo before May 12th for a chance to win a unique mini suncatcher, folded and framed by me!
+I discovered the value of rotated grids very recently, and now I’m trying to share this simple technique to create cleaner, better-looking tessellations with as many people as possible.
+The grid must be rotated so that the grid lines are not parallel to the edges of the paper
+The rotation must align repeating elements of the tessellation with at least one edge of the paper
+The tessellation must be made recently, at least since I published the rotated grids math on April 5th
+You can read all about how to calculate the references for your rotated grids on my previous blog post.
+The edge markings are rotationally symmetric around your paper - simply rotate the next edge into position and fold the same fraction again. I typically use a second sheet with a reference grid to mark these fractions - no need for additional marks.
+
+Rotating Grids in Squares and Hexagons
+You don’t have a laser cutter or Cricut scorer, but you still want to make stunning tessellations without guessing and iterating over and over. You’ve seen some tessellations that are mysteriously well-aligned with the edge of the paper, but don’t know how it’s done.
+Sounds familiar, right?
+The good news is that there’s a fairly simple solution - rotated grids! These grids take into account the alignment of the repeating elements of the tessellation with the grid, and then allow you to align the edges of the paper with those repeating elements, at the location of your choosing.
+You may have seen rotated grids before in tutorials for the Triangle Twist tessellation or variations of Fujimoto’s Clover where the grid is perpendicular to the normal edge-aligned grid. Mark Leonard also used a 2:1 grid alignment for the Waterbomb tessellation back in 2004. I learned about arbitrary rotated grids from Elseh (@zamanulli on IG), and just like when I learned the odd gridding reference method, it was too good to not share.
+Here’s some examples of a tessellation that was made with and without rotating the grid.
+You can see that the rotated tessellations have the same repeating elements as the normal ones - they're just aligned with the edges.
+This completely eliminates any awkward wedges of paper at the edges of the design and leaves a polished, intentional-looking finish.
+Look at your crease pattern. Find your center point, and draw a line to the same point in another pattern repetition. There are many options for the second point - the closer the point, the easier the reference (generally), and among equivalent options I always choose the one closest to horizontal to the right of my center point.
+Count from your center point along a grid line until you find a good place for the edge of the paper. As with normal gridding methods, you’ll want to prioritize powers of two for simplicity or at least find a multiple of two or four.
+Mark the reference you calculated in step 2 on the edges of your paper. The triangle grid reference is only for hexagonal paper - see the last section for referencing triangle grids on a square.
+Make valley folds between the reference marks on opposite edges. These creases will intersect in the exact center of the paper.
+Fold the references in to the center. This is why you need at least a multiple of two for your grid count from the center to the edge.
+Fold odd grid divisions as needed, and continue dividing by two until you reach your target grid divisions.
+Precrease as needed, and collapse your tessellation as usual.
+Marvel in the majesty of what you have created and share the good news with another folder.
+Here’s what the Lens Stars example from the top of the section looks like on a 32-fold rotated (diagonal) grid:
+I’d love to see what y’all fold with rotated grids - tag me (@gatheringfolds) on IG or FB and show me what you’ve got!
+Rotating the grids was a big step up for me, and it may take some trial and error to get used to it in your folding. I’m planning on releasing several video tutorials, so if it still seems mysterious don’t worry - videos are coming soon!
+Good luck on all of your folding adventures, and happy folding, everyone!
+Madonna Yoder
+Gathering Folds
+
+Compound Quadrilaterals Tessellation Tutorial
+Now that you've learned to fold compound open and closed squares, it's time to add rectangles to the repertoire!
+If you haven't learned them already, I recommend checking out my Hybrid Square Twist tutorial, Odd Division Grids tutorial, Open Compound Square Twist tutorial, and general Compound Squares tutorial before attempting this tessellation.
+I start with a 40-fold square grid (instructions here), and walk you through the process of folding this tessellation, giving some ideas for variations as I go.
+If you're ready, let's dive in!
+As always, I'd love to see what you fold - tag me (@gatheringfolds) on Instagram to show off what you've made!
+
+Compound Squares Live Tutorial
+If you've seen my compound squares tutorial video, but you're still wondering about the details, check out this live video on Instagram where I explain the ins and outs of using compound squares in larger tessellations!
+I'm collapsing the Rotated Mixed Squares tessellation in this video, but you can also use the same techniques to make the Mirrored Mixed Squares tessellation ...
+... or the Framed Pairs tessellation ...
+... or the Mixed Quads tessellation!
+As always, I'm happy to answer any questions, and I'm looking forward to see what you make with this technique!
+
+Open Compound Square Twist Tutorial
+When I first started making origami tessellations, one of the first twists I ever learned was the Closed Square Twist.
+Later, I learned the Open Square Twist. As I learned more tessellations, I saw that any closed twist - square, triangle, hexagon, rhombus, etc - could be modified to have an open back.
+Now I present a new way to modify twists: Compounding!
+You might be wondering what kinds of things can be made with these compound twists. I've made several variations already, and I have lots of ideas for more!
+Here's a list of tessellations I've made with this Compound Square Twist:
+Mirrored Compound Squares
+Rotated Compound Squares
+I also have a bundle of four crease patterns, all using compound squares or compound hexagons:
+Compound Twists Bundle
+
+Christmas Stocking Tutorial
+Recently, I made the most amazing Christmas stockings for my family. They do take several hours to make (mostly smocking time), so I’m not currently offering them for sale (although you can certainly contact me for a commissioned set), but here’s how you can make your own!
+2023 update: If you'd like detailed video instructions and Cricut-ready template files, you can get those here!
+
+Mission
+One of the lessons that was drilled into me by my parents while I was growing up is that it's not enough to just take care of your own needs and wants. Everyone has a responsibility to their broader family, to their community, and to the world as a whole. They taught me that there are no good excuses for not giving back and there is always something you can do to help.
+The global community needs all of us at our best right now. We are confronting major challenges with no clear solutions and it can feel incredibly daunting to face the scale of these problems head-on. What we do individually is a drop in the bucket, but these drops add up.
+“Every individual matters. Every individual has a role to play. Every individual makes a difference.” - Dr. Jane Goodall
+There are many ways to contribute, and many individual strengths to draw on. Some people give their time to projects and organizations, some pursue high-paying jobs to give more funds to the causes they support, and others give of their expertise, materials, and connections to solve problems big and small.
+I have chosen to use my expertise and skills in origami and framing to help expand access to clean drinking water among those who need it most.
+For every large tessellation that I sell (suncatcher, framed piece, or pillow), I am donating a mini suncatcher like the one pictured here to the charity Paper for Water.
+Paper for Water gives origami to their donors, who fund clean water development projects around the world - including here in the USA. The organization was founded in 2011 by Isabelle and Katherine Kei Adams, two girls who saw a way to use their skills to make a difference.
+I may not be installing the wells myself, but by giving origami to Paper for Water I am using my strengths to make the world a better place. Access to clean water enables people (mostly young women) to pursue more education and prevents deaths from water-borne illnesses. These impacts will allow more people to work on improving their own lives, the lives of their families, their communities, and our world.
+The global community is facing many challenges, but with your help we can continue making the future better than the present. Be the change. Join me, and use your strengths to improve the future for us all.
+
+The only thing you need to know to fold any odd division grid
+What if I told you that you don’t need to look up how to fold thirds, fifths, or even 17ths ever again? Like you, I used to spend a lot of time looking up how to fold thirds every time I wanted to fold a 48-fold grid. No more.
+I learned this method from Elseh (@zamanulli on IG) back in May 2020 and I've been using it for my odd grids ever since.
+So, let’s get down to it: what’s this awesome piece of knowledge that will change your folding life?
+Basic unit of knowledge: The sum of the grid spacings between any two pairs of points on parallel lines gives you the number of divisions you can make between the parallel lines with references from only those four points.
+Another key point is that if a third side of this trapezoid is on an existing grid line, then the marked intersection will lie on a grid intersection of the odd division and so can be used as a reference in all directions. This is true of both square grids and triangle grids.
+Pick your points so that the grid spacings on the bottom and the grid spacings on the top add up to your target number. For these examples, I’ll take 2 spacings on the bottom and 1 spacing on the top to get a division by 2+1 = 3.
+Fold the diagonals between your four points. You don’t need to fold all the way - just pinch near the intersection if you want a cleaner fold.
+Since you’re folding an odd division in the grid, one of the sides of the intersection will have an even number of divisions.
+Fold the line on the even side to meet the point marked by the intersection of the diagonals. In this case, I fold the bottom line up to the intersection.
+If the side you just folded still has gaps divisible by 2, keep dividing it until it has odd divisions.
+Then take the other side and fold it to the first crease after the marked intersection. This will be an even division since you started with an odd number and you’re adding an odd number.
+Continue until you’ve filled in all the creases.
+If your grid already had several divisions before you performed the odd division, propagate the odd division through the rest of the paper.
+Complete your odd grid division by dividing all the other grid directions in the same odd division.
+Let’s run through this for a particularly involved example: 7-fold divisions with spacings of 4 and 3.
+The area below the intersection has 4 divisions, so I fold it in half.
+The area below the intersection has spacings of 2, so I fold those in half again.
+Now the distance between the top and the closest crease is even, so I fold that in half.
+There’s still even gaps in the top, so I fold those in half too. Now the 7ths are done in that direction, and I can repeat the process with the same reference intersection in the other direction!
+It’s easier to fold the odd divisions of a grid early in the gridding process, before there’s a ton of lines to keep track of. So, if you’re folding a 48-fold grid, don’t fold four divisions of 2 and then divide by 3 - fold in half once, then divide by 3, then do another three divisions of two.
+Stated more plainly, both of the parallel lines used for the odd division and one other edge of the trapezoid need to already be on grid lines to make the intersection of the diagonals of the trapezoid fall on an odd grid intersection. The final edge of the trapezoid does not need to be on a grid line (and usually won’t be) and we don’t care whether that final edge is on the left or right side of the trapezoid.
+If you use this in your own folding, go ahead and share it with me (@gatheringfolds) on Instagram or Facebook! I love to see people folding grids - and the tessellations made with them!
+Also, if you have any questions about this post or any other gridding topics that you’d like me to explore next, send your questions and topics to madonna[at]gatheringfolds.com and I’ll see what I can do to help!
+
+Reverse Engineering Challenge Results
+Thanks to everyone who folded the Herringbone Weave origami tessellation in the last two weeks! I really enjoyed seeing all of your interpretations of my tessellation and I hope everyone gained confidence in their reverse engineering skills.
+The challenge was completed successfully by 21 people, from all across the globe. Here's the published photos of all the entries:
+Now, the news that you've been waiting for:
+Our grand winner of the mini suncatcher is Montana Reid!
+Congratulations to everyone who participated, and I'll see you again with another challenge in a few months!
+
+Herringbone Reverse Engineering Challenge
+How would you like to be able to fold tessellations like mine? I believe that you can - with lots of practice, trial, and error.
+Just a few years ago, I was like you - experienced in folding but with very little experience in tessellations. I got to where I am today by challenging myself to figure out the underlying structure of tessellations from as little information as possible.
+I worked my way through a progression of learning styles until I was able to reverse engineer tessellations from only a photo of one side. That may sound extreme right now, but let me explain.
+My first exposure to tessellations was in person, at an OrigaMIT convention. Then I practiced folding grids to use in my research into triangular grid mazes (which are basically tessellations) and switched to learning through video tutorials.
+Once I understood the basic twists and pleats, I started learning from photo tutorials, and then from just photos of the front and back of finished tessellations.
+200 tessellations later, and I was ready to start designing my own.
+So, today I am challenging you to learn like I did and reverse engineer my Herringbone Weave tessellation!
+1) Reverse engineer the tessellation - fold enough that it's clearly identifiable.
+Hint: Check out my tutorial for the twist here. 
+2) Tag me in a post with photos of the tessellation - Instagram feed/stories or Facebook (@gatheringfolds) before August 31st.
+1) All entrants will receive a copy of the Herringbone Weave smocking pattern for fabric.
+2) One lucky winner (determined by random drawing) will get a six-inch suncatcher like these!
+
+Lattice Weave Smocking Tutorial
+Have you ever seen a smocked cushion (or bag, or hat, or - you get the picture) and thought "How do they do that"? You're not alone, and this tutorial will teach you how it's done. It's a simple process - no magic required. If you can sew a button, then you are more than qualified to do North American (Canadian) smocking.
+We're going to work through a modified version of the traditional lattice weave smocking pattern that was derived from the world of origami tessellations. This pattern can be folded flat on paper, but the fabric gives it a 3D texture and curvature. It can be used as a border or a full panel, like the one below, and would add interesting texture to any garment or accessory.
+Next, let's talk about transfer methods to get the pattern on the fabric. I'll list methods in the order I recommend them.
+Let's get down to business! Using your method of choice from the list above, start transferring your pattern onto the back side of your fabric.
+Once you've finished tracing as much as you need, it's time to cut the edges.
+You want to leave enough space on the edges so you can sew the piece into whatever you're using it for. This is also the time to put fray check on the edges if you need it. If you do, wait for the fray check to dry (15-20 min) before continuing.
+Next, you're going to thread your needle. You may not think you need instructions on this, but hear me out. I've got a cool trick that will save you a lot of time and suffering later.
+Double your thread and tie a knot (loop around your first finger once and roll the overlap towards the end of your finger, then tighten), then run your fingers along the thread from the knotted ends to the middle. Thread the middle loop through the eye of your needle, then pull through enough to put the pointy end of the needle through the loop (see above). Pull tight.
+Now you have a removable needle on doubled thread! Cool, right? I learned this trick from Adrienne Sack when she first taught me to smock and I've been using it ever since.
+Now, let's get on with the smocking.
+Pick a point to start (any marked point), and put your needle through the fabric slightly before the point, and bring it back up slightly after. You should have only a few threads from the fabric on the needle, but more than one and preferably threads in both directions. This is what I call "picking up the point".
+Pull your needle all the way through until the knot at the end of the thread stops at the point you picked up. Next, pick up the second point in that group (the one connected with a line in the pattern to your first one) and pull through until those two points meet. Next, tie a knot around your original knot to make sure that those two points in the fabric stay together.
+This is the basic idea of smocking - you bring points in the fabric together in the back, and that makes a pattern on the front.
+Now we do the same thing with the next group of points. "But, wait!" you say, "We didn't cut the thread! We don't have a knot at the end to stop us!"
+That's fine - when you pick up the first point in the next group, simply loop the thread coming from the last knot around the needle so that it makes a knot when you pull tight. Be careful on this step to leave as much thread between the two groups as there is distance in the fabric. If the thread is too tight, it'll pull the points closer together and distort the pattern.
+Then we carry on as before. The rhythm of a group is as follows:
+When you tie a knot for the last point in a group, I always pass the needle under the incoming thread, loop it once or twice, and then pull through. This makes a loop through all the points in a group and keeps them closer together.
+If you're running low on thread or want to switch to a different part of the pattern, simply snip your thread, leaving a small tail, after a knot that finishes a group.
+Once you've finished stitching all the groups together, flip your piece over and rearrange any layers that look out of place. Your piece is now ready to be included in bigger projects or to be enjoyed as it is!
+Bonus tip: if you're stitching other patterns and the groups have more than two points, then the first and last points act exactly the same as in this pattern. For the point(s) in the middle, simply pick them up and pull through.
+Happy smocking!
+Madonna Yoder
+Gathering Folds
+
+Hybrid Square Twist Tutorial
+Have you been looking for new twists to use on square grids that don't require extra precreasing? This hybrid open-closed square twist opens up a world of possibilities for weave patterns, including my Herringbone weave, Square Knots weave, Fence weave, and more!
+This quick tutorial will give you all the knowledge you need to use this twist for your own patterns, and all you need to start is a 8-fold square grid.
+

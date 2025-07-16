@@ -1,0 +1,69 @@
+Up & Down tessellation
+Diagrams and instructions in english and spanish to fold the 32 division grid version of the "Up & Down tessellation".
+Diagramas e instrucciones en inglés y español para plegar la versión de trama de 32 divisiones del modelo "Up & Down".
+
+Tessellation for the Blind General and Grid
+Read this first to understand how to prepare a grid and what you need to know before you start to fold tessellations.
+The guide does NOT teach how to fold the model in the image.
+
+Cube Tessellation
+The Cube tessellation Verbal Diagrams are my first attempt to write instructions for a tessellation, for blind people.
+Do read the guide: "Tessellation for the Blind General and Grid" first.
+
+Catellation
+The molecule for the distinctive part of a figurative tesselation: fold a line of cats staring at you from the paper!
+
+Folding Fan
+This is a diagram for my action origami unit, called a spring joint, and it can be used to integrate motion into many origami models. In this case, it is presented as a flapping fan, that can be used as an alternative to the traditional fan for cooling off on a hot day, but I encourage you to experiment with this unit and create your own action models!
+
+Andy Li (李羡)  origami diagrams
+Origami diagrams from complex to simple.
+
+Three-phase Sinusoidal Waveforms
+A tessellation with a visual appearance that represents three sinusoidal waveforms with 120° phase shifts. The molecules are based on square twists, which have been stretched in the vertical direction. This results in twists that stick out of the plane, forming the ridges that look like sampled-and-held sinusoids.
+
+Square Kufic Tessellation Salaam, Small
+The precrease pattern for a 3d tessellation representing the Arabic word سلام (salaam) = peace in in square kufic script. For more information on how to collapse the molecules, check out my Instagram feed.
+
+3D Ninja Star Tessellation
+
+Square Kufic Tessellation Salaam, Large
+A 3d tessellation inspired by square kufic calligraphy. The pattern features four instances of the Arabic word سلام (salaam) = peace in square kufic script arranged along the perimeter of the square.
+
+Knotted Web
+Knotted Web is a tricky tessellation with a non-standard arrangement of hexagon and triangle twists. It's the same on both sides (isoarea) and is designed to be folded from the center out, without precreasing.
+The pattern repeats are aligned with the edges of the paper when you use a standard triangle grid on a hexagon, and you get to choose the size of the grid to match the number of repeats that you want to fold.
+
+Open Triangle Stars, Gapped
+This crease pattern shows the continuation of Day 20 of Advent of Tess by Madonna Yoder (Gathering Folds), which is taught on a 16-fold grid inside of the series.
+More information about how to use the rotation a/L given with the crease pattern can be found here.
+
+Square Knots Weave
+Crease pattern with additional information on the Square Knots Weave tessellation.
+This tessellation uses hybrid square twists to move between closed and open square twist positions with an alternating closed/open pattern in both the rows and the columns.
+
+Viking Shields tessellation
+It is a model included in my second book. The molecule consists of a closed triangle twist over an open back hexagon twist. Both twists rotate in opposite directions.
+
+Alquimia Teselation x 48
+
+Alquimia TesselStar:
+
+Danza de Cuadrados
+
+Amapola
+
+Danila
+
+Emma´s Flower:
+
+Corona Australis tessellation box
+Step by step diagram in spanish and english showing how to fold the box lid of one of my tessellation box models.
+Diagrama paso a paso en español e inglés explicando cómo plegar la tapa de uno de mis modelos de caja con teselados.
+
+Casiopea Tessellation
+Full step by step diagram of the Casiopea tessellation, in its 32 division grid version. This model was taught in OUSA 2021 online convention.
+Diagrama completo paso a paso del teselado Casiopea en su versión de 32 divisiones. Este modelo fue enseñad en la convención virtual de OUSA 2021.
+Diagram in spanish and english, drawn with Inkscape.
+Diagrama en español e inglés dibujado con Inkscape.
+
