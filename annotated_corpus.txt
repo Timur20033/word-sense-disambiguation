@@ -1,3 +1,0 @@
-If the side you just folded[VERB1] still has gaps divisible by 2, keep dividing it until it has odd divisions.
-Then take the other side and fold[VERB1] it to the first crease after the marked intersection.
-The area below the intersection has 4 divisions, so I fold[VERB1] it in half.
