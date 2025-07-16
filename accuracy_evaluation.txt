@@ -9,5 +9,5 @@ Sample_8: 62%
 Sample_9: 73%
 Sample_10: 50%
 
-Average accuracy:
+Average accuracy: 72%
 Range: 50-100%
